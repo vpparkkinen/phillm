@@ -1,0 +1,8 @@
+Physicalism is true;
+Physicalism is false;
+Abortion in the first trimester is morally permissible;
+Abortion in the first trimester is morally impermissible;
+Adult humans have free will;
+Adult humans have no free will;
+Externalism about mental content is true;
+Internalism about mental content is true;
