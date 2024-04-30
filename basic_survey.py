@@ -25,15 +25,20 @@ li = read_qs("tf.txt") # read in the questions
 
 # choose models -- bigger models if running on a bigger rig
 if os.cpu_count() > 16:
-    wmodel = ["llama3", "mistral:7b-text-q8_0", "gemma"]
+    wmodel = ["llama3:70b", "mistral", "gemma"]
 else: # laptop
     wmodel = ["llama3", "gemma"]
 
  # which models to use
-iter = 1 # how many iterations per model
+iter = 5 # how many iterations per model
+
+system_prompt1 = "You are being surveyed about your opinions towards statements concerning philosophical issues such as the mind-body problem, the trolley problem, or the ethics of abortion. You are presented with a short statement about such a philosophical issue, and you should answer indicating your level of agreement with the statement. Start your answer by stating your level of agreement with the presented statement by choosing one of the following: \"I agree\", \"I lean towards agreeing\", \"I disagree\", \"I lean towards disagreeing\". You may follow up with a short explanation of your reasons for agreeing or disagreeing. It is acknowledged that there often is no single correct answer."
+
+system_prompt2 = "You are presented with a philosophical antinomy \"X versus not X\". Answer with one of the following: \"1. I agree with X\", \"2. I lean towards agreeing with X\", \"3. I lean towards agreeing with not X\", \"4. I agree with not X\", \"5. Other\"."
+
 
 prompt = ChatPromptTemplate.from_messages([
-    ("system", "You are being surveyed about your opinions towards statements concerning philosophical issues such as the mind-body problem, the trolley problem, or the ethics of abortion. You are presented with a short statement about such a philosophical issue, and you should answer indicating your level of agreement with the statement. Start your answer by stating your level of agreement with the presented statement by choosing one of the following: \"I agree\", \"I lean towards areeing\", \"I disagree\", \"I lean towards disagreeing\". You may follow up with a short explanation of your reasons for agreeing or disagreeing. It is acknowledged that there often is no single correct answer. "),
+    ("system", system_prompt2),
     ("user", "{input}")
 ])
 
@@ -44,10 +49,12 @@ resp = [["model", "iteration", "Q", "A"]]
 # pitch the questions to each model `iter` times
 # do we want to vary temperature, too?
 for mod in wmodel:
-    llm = Ollama(model = mod)
+    llm = Ollama(model = mod, num_gpu = 60)
     chain = prompt | llm | parser
+    print(mod) # which model is going slow?
     for i in range(1, iter + 1):
         for val in li:
+            print(i)
             resp.append([mod,
                          i,
                          val,

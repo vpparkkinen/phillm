@@ -1,8 +1,3 @@
-Physicalism is true;
-Physicalism is false;
-Abortion in the first trimester is morally permissible;
-Abortion in the first trimester is morally impermissible;
-Adult humans have free will;
-Adult humans have no free will;
-Externalism about mental content is true;
-Internalism about mental content is true;
+There is a priori knowledge versus there is no a priori knowledge;
+Capital punishment is permissible versus capital punishment is not permissible;
+Physicalism is true versus physicalism is not true;
