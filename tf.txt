@@ -1,3 +1,10 @@
 There is a priori knowledge versus there is no a priori knowledge;
 Capital punishment is permissible versus capital punishment is not permissible;
 Physicalism is true versus physicalism is not true;
+Empiricism about knowledge is true versus rationalism about knowledge is true;
+Laws of nature are Humean versus laws of nature are non-Humean;
+Cognitivism about moral judgement is true versus non-cognitivism about moral judgement is true;
+Theism is true versus atheism is true;
+Internalism about epistemic justification is true versus externalism about epistemic justification is true;
+Scientific realism is true versus scientific anti-realism is true;
+Moral realism is true versus moral antirealism is true
