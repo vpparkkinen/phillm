@@ -49,7 +49,7 @@ resp = [["model", "iteration", "Q", "A"]]
 # pitch the questions to each model `iter` times
 # do we want to vary temperature, too?
 for mod in wmodel:
-    llm = Ollama(model = mod, num_gpu = 60)
+    llm = Ollama(model = mod, num_gpu = 60, temperature = 1)
     chain = prompt | llm | parser
     print(mod) # which model is going slow?
     for i in range(1, iter + 1):
@@ -61,6 +61,6 @@ for mod in wmodel:
                          chain.invoke({"input": val})])
 
 
-with open("res.csv", "wt") as rf:
+with open("res_temp1.csv", "wt") as rf:
     wrow = csv.writer(rf, delimiter = ";")
     wrow.writerows(resp)

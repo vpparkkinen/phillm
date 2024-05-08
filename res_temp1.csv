@@ -1,0 +1,901 @@
+model;iteration;Q;A
+llama3:70b;1;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;1;Capital punishment is permissible versus capital punishment is not permissible;3
+llama3:70b;1;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;2;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;2;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;2;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;3;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;3;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;3;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;4;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;4;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;4;Physicalism is true versus physicalism is not true;2
+llama3:70b;5;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;5;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;5;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;6;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;6;Capital punishment is permissible versus capital punishment is not permissible;3
+llama3:70b;6;Physicalism is true versus physicalism is not true;2
+llama3:70b;7;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;7;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;7;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;8;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;8;Capital punishment is permissible versus capital punishment is not permissible;3. I lean towards agreeing with not X
+llama3:70b;8;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;9;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;9;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;9;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;10;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;10;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+llama3:70b;10;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;11;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;11;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;11;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;12;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;12;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;12;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;13;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;13;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;13;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;14;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;14;Capital punishment is permissible versus capital punishment is not permissible;3
+llama3:70b;14;Physicalism is true versus physicalism is not true;2
+llama3:70b;15;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;15;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;15;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;16;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;16;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;16;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;17;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;17;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;17;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;18;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;18;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+llama3:70b;18;Physicalism is true versus physicalism is not true;2
+llama3:70b;19;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;19;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;19;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;20;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;20;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;20;Physicalism is true versus physicalism is not true;2
+llama3:70b;21;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;21;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;21;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;22;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;22;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;22;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;23;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;23;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;23;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;24;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;24;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+llama3:70b;24;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;25;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;25;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;25;Physicalism is true versus physicalism is not true;2
+llama3:70b;26;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;26;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;26;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;27;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;27;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;27;Physicalism is true versus physicalism is not true;2
+llama3:70b;28;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;28;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;28;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;29;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;29;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;29;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;30;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;30;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+llama3:70b;30;Physicalism is true versus physicalism is not true;2
+llama3:70b;31;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;31;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;31;Physicalism is true versus physicalism is not true;2
+llama3:70b;32;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;32;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;32;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;33;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;33;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;33;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;34;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;34;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;34;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;35;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;35;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;35;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;36;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;36;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;36;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;37;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;37;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;37;Physicalism is true versus physicalism is not true;2
+llama3:70b;38;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;38;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;38;Physicalism is true versus physicalism is not true;2
+llama3:70b;39;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;39;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;39;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;40;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;40;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;40;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;41;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;41;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;41;Physicalism is true versus physicalism is not true;2
+llama3:70b;42;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;42;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;42;Physicalism is true versus physicalism is not true;2
+llama3:70b;43;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;43;Capital punishment is permissible versus capital punishment is not permissible;3
+llama3:70b;43;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;44;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;44;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;44;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;45;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;45;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;45;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;46;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;46;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;46;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;47;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;47;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+llama3:70b;47;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;48;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;48;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;48;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;49;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;49;Capital punishment is permissible versus capital punishment is not permissible;4
+llama3:70b;49;Physicalism is true versus physicalism is not true;2
+llama3:70b;50;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;50;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;50;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;51;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;51;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;51;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;52;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;52;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;52;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;53;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;53;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;53;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;54;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;54;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;54;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;55;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;55;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;55;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;56;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;56;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;56;Physicalism is true versus physicalism is not true;2
+llama3:70b;57;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;57;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;57;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;58;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;58;Capital punishment is permissible versus capital punishment is not permissible;3. I lean towards agreeing with not X
+llama3:70b;58;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;59;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;59;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;59;Physicalism is true versus physicalism is not true;2
+llama3:70b;60;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;60;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;60;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;61;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;61;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;61;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;62;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;62;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;62;Physicalism is true versus physicalism is not true;2
+llama3:70b;63;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;63;Capital punishment is permissible versus capital punishment is not permissible;4
+llama3:70b;63;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;64;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;64;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;64;Physicalism is true versus physicalism is not true;2
+llama3:70b;65;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;65;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;65;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;66;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;66;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;66;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;67;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;67;Capital punishment is permissible versus capital punishment is not permissible;4
+llama3:70b;67;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;68;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;68;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;68;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;69;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;69;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;69;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;70;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;70;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;70;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;71;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;71;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+llama3:70b;71;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;72;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;72;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;72;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;73;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;73;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+llama3:70b;73;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;74;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;74;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;74;Physicalism is true versus physicalism is not true;2
+llama3:70b;75;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;75;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;75;Physicalism is true versus physicalism is not true;2
+llama3:70b;76;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;76;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;76;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;77;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;77;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;77;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;78;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;78;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;78;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;79;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;79;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;79;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;80;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;80;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;80;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;81;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;81;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;81;Physicalism is true versus physicalism is not true;2
+llama3:70b;82;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;82;Capital punishment is permissible versus capital punishment is not permissible;3
+llama3:70b;82;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;83;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;83;Capital punishment is permissible versus capital punishment is not permissible;3
+llama3:70b;83;Physicalism is true versus physicalism is not true;2
+llama3:70b;84;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;84;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;84;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;85;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;85;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;85;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;86;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;86;Capital punishment is permissible versus capital punishment is not permissible;3. I lean towards agreeing with not X
+llama3:70b;86;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;87;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;87;Capital punishment is permissible versus capital punishment is not permissible;3. I lean towards agreeing with not X
+llama3:70b;87;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;88;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;88;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;88;Physicalism is true versus physicalism is not true;2
+llama3:70b;89;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;89;Capital punishment is permissible versus capital punishment is not permissible;3. I lean towards agreeing with not X
+llama3:70b;89;Physicalism is true versus physicalism is not true;2
+llama3:70b;90;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;90;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;90;Physicalism is true versus physicalism is not true;2
+llama3:70b;91;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;91;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;91;Physicalism is true versus physicalism is not true;2
+llama3:70b;92;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;92;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;92;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;93;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;93;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;93;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;94;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;94;Capital punishment is permissible versus capital punishment is not permissible;3
+llama3:70b;94;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;95;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;95;Capital punishment is permissible versus capital punishment is not permissible;3
+llama3:70b;95;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;96;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;96;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;96;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;97;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;97;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;97;Physicalism is true versus physicalism is not true;2
+llama3:70b;98;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;98;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;98;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;99;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with X
+llama3:70b;99;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:70b;99;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+llama3:70b;100;There is a priori knowledge versus there is no a priori knowledge;2
+llama3:70b;100;Capital punishment is permissible versus capital punishment is not permissible;2
+llama3:70b;100;Physicalism is true versus physicalism is not true;2. I lean towards agreeing with X
+mistral;1;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;1;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;1;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true.
+mistral;2;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;2;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (I lean towards agreeing that capital punishment is not permissible)
+mistral;2;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;3;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;3;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;3;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;4;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;4;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;4;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true. (Please note that this does not imply a definitive stance or agreement, it only represents my initial leaning based on the given antinomy.)
+mistral;5;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;5;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;5;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;6;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;6;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;6;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;7;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;7;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;7;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true.
+mistral;8;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;8;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;8;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;9;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;9;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (I lean towards agreeing that capital punishment is not permissible).
+mistral;9;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true. (Note: This does not imply a definitive stance or agreement with anti-physicalism, but rather a slight inclination towards it based on current philosophical trends and debates.)
+mistral;10;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;10;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;10;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;11;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;11;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;11;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;12;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;12;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;12;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;13;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;13;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (I lean towards agreeing that capital punishment is not permissible).
+mistral;13;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (Physicalism is not true)
+mistral;14;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;14;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;14;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;15;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;15;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (I lean towards agreeing that capital punishment is not permissible)
+mistral;15;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (Physicalism is not true)
+mistral;16;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;16;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;16;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;17;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;17;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (I lean towards agreeing that capital punishment is not permissible)
+mistral;17;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (Physicalism is not true)
+mistral;18;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;18;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible).
+mistral;18;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;19;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;19;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible).
+mistral;19;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;20;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;20;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;20;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true. (Note: This does not mean that I personally believe that physicalism is not true, but rather that I lean slightly more towards the side of it being false based on philosophical considerings and debates.)
+mistral;21;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;21;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X. (This means I lean towards the position that capital punishment is not permissible.)
+mistral;21;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;22;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;22;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible).
+mistral;22;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;23;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;23;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;23;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true. (Note: This does not imply a definitive stance against physicalism, but rather a leaning towards the idea that there are aspects of reality that cannot be explained solely by physical phenomena.)
+mistral;24;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;24;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible).
+mistral;24;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;25;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;25;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;25;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true.
+mistral;26;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;26;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X. (In other words, I lean towards the position that capital punishment is not permissible.)
+mistral;26;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;27;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;27;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible).
+mistral;27;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;28;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;28;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;28;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;29;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;29;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;29;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true. (Note: This does not imply a belief that physicalism is false, but rather a recognition that there are compelling arguments and considerations on both sides of the debate.)
+mistral;30;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;30;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;30;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true. (Please note that this does not imply a definitive stance or belief in metaphysical or dualist positions, but rather a slight inclination towards the idea that physicalism may not be able to fully capture all aspects of reality.)
+mistral;31;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;31;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;31;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;32;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;32;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible).
+mistral;32;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true. (Note: This does not imply a definitive stance against physicalism, but rather a slight inclination towards the view that there are non-physical aspects to reality.)
+mistral;33;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;33;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;33;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;34;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;34;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;34;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;35;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;35;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (I lean towards agreeing that capital punishment is not permissible).
+mistral;35;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;36;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;36;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;36;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true.
+mistral;37;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;37;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (I lean towards agreeing that capital punishment is not permissible)
+mistral;37;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (Physicalism is not true)
+mistral;38;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;38;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;38;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;39;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;39;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible).
+mistral;39;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;40;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;40;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;40;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true. (Note: This does not mean that I believe physicalism is definitively false, only that among X and not X, I lean slightly more towards not X based on my current knowledge.)
+mistral;41;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;41;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;41;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;42;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;42;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (I lean towards agreeing that capital punishment is not permissible)
+mistral;42;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;43;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;43;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;43;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;44;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;44;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;44;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;45;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;45;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;45;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;46;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;46;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible).
+mistral;46;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;47;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;47;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;47;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true.
+mistral;48;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;48;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible).
+mistral;48;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;49;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;49;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible).
+mistral;49;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;50;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;50;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;50;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;51;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;51;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X. (This means I lean towards the view that capital punishment is not permissible.)
+mistral;51;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true. (However, it's important to note that this does not imply a belief in metaphysical dualism or any other specific alternative to physicalism. It simply indicates a leaning away from the position that physicalism is the complete and exhaustive explanation of reality.)
+mistral;52;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;52;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;52;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;53;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;53;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (I lean towards agreeing that capital punishment is not permissible).
+mistral;53;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true. (However, please note that this choice does not imply a definitive stance or agreement with anti-physicalism, but rather a slight inclination towards it based on the philosophical antinomy presented.)
+mistral;54;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;54;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;54;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;55;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;55;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;55;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;56;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;56;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible).
+mistral;56;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;57;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;57;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;57;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;58;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;58;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;58;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true.
+mistral;59;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;59;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;59;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true.
+mistral;60;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;60;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (I lean towards agreeing that capital punishment is not permissible)
+mistral;60;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (Physicalism is not true)
+mistral;61;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;61;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;61;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;62;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;62;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;62;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;63;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;63;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;63;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;64;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;64;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible).
+mistral;64;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true. (Note: This does not imply a definitive stance against physicalism or a belief that it is false, but rather an acknowledgment of the philosophical complexities and debates surrounding the topic.)
+mistral;65;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;65;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;65;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;66;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;66;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X. (I.e., I lean towards agreeing that capital punishment is not permissible)
+mistral;66;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;67;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;67;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;67;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;68;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;68;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;68;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;69;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;69;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;69;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;70;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;70;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;70;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;71;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;71;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;71;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;72;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;72;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible).
+mistral;72;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;73;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;73;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible).
+mistral;73;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;74;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;74;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible).
+mistral;74;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true. (Note: This does not mean I believe non-physicalism is true, only that I lean slightly more toward the idea that physicalism may not be a complete explanation.)
+mistral;75;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;75;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;75;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;76;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;76;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;76;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;77;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;77;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (I lean towards agreeing that capital punishment is not permissible).
+mistral;77;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true.
+mistral;78;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;78;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (I lean towards agreeing that capital punishment is not permissible).
+mistral;78;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;79;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;79;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;79;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true. (Note: This does not imply a definitive stance against physicalism or an acceptance of dualism, it simply represents a slight inclination towards the notion that physicalism may not be an exhaustive explanation for all phenomena.)
+mistral;80;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;80;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible).
+mistral;80;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (Physicalism is not true)
+mistral;81;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;81;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (I lean towards agreeing that capital punishment is not permissible).
+mistral;81;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;82;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;82;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X.
+mistral;82;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;83;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;83;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;83;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;84;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;84;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;84;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;85;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;85;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X. (I lean towards agreeing that capital punishment is not permissible)
+mistral;85;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;86;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;86;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;86;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;87;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;87;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;87;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;88;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;88;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible).
+mistral;88;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;89;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;89;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible).
+mistral;89;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true. (Note: This does not imply a definitive stance against physicalism, but rather a slight inclination towards the idea that there are non-physical aspects to reality.)
+mistral;90;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;90;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible).
+mistral;90;Physicalism is true versus physicalism is not true;" 3. I lean towards agreeing with physicalism is not true. (This does not mean I believe in non-physical entities or forces; it simply means that I find the idea of reducing all reality to physical phenomena a challenging one.)"
+mistral;91;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;91;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;91;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;92;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;92;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X. (In other words, I lean towards the position that capital punishment is not permissible.)
+mistral;92;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;93;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;93;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X. (I lean towards agreeing that capital punishment is not permissible)
+mistral;93;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true. (Note: This does not imply a definitive stance against physicalism, but rather a slight inclination towards the idea that there are non-physical aspects to reality.)
+mistral;94;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;94;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (I lean towards agreeing that capital punishment is not permissible).
+mistral;94;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true. (Note: This does not mean I believe in a non-physical universe, but rather that I recognize the complexity and ongoing debates surrounding the issue of physicalism.)
+mistral;95;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;95;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;95;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+mistral;96;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;96;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (I lean towards agreeing that capital punishment is not permissible).
+mistral;96;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (Physicalism is not true)
+mistral;97;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;97;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X. (I.e., I lean towards agreeing that capital punishment is not permissible.)
+mistral;97;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (Physicalism is not true)
+mistral;98;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;98;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (I lean towards agreeing that capital punishment is not permissible)
+mistral;98;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (Physicalism is not true)
+mistral;99;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;99;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (I lean towards agreeing that capital punishment is not permissible).
+mistral;99;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with physicalism is not true. (Note: This does not imply a definitive position against physicalism, but rather a slight inclination towards its negation based on the information available.)
+mistral;100;There is a priori knowledge versus there is no a priori knowledge; 3. I lean towards agreeing with not X (there is no a priori knowledge)
+mistral;100;Capital punishment is permissible versus capital punishment is not permissible; 3. I lean towards agreeing with not X (capital punishment is not permissible)
+mistral;100;Physicalism is true versus physicalism is not true; 3. I lean towards agreeing with not X (physicalism is not true)
+gemma;1;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;1;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;1;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;2;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;2;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;2;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;3;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;3;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;3;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;4;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with the statement.
+gemma;4;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X.
+gemma;4;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;5;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with the statement.
+gemma;5;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;5;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;6;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;6;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;6;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;7;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;7;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X.
+gemma;7;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;8;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;8;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;8;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;9;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;9;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;9;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;10;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;10;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;10;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;11;There is a priori knowledge versus there is no a priori knowledge;4. I agree with not X
+gemma;11;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;11;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;12;There is a priori knowledge versus there is no a priori knowledge;4. I agree with not X
+gemma;12;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;12;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;13;There is a priori knowledge versus there is no a priori knowledge;4. I agree with not X
+gemma;13;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;13;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;14;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge
+gemma;14;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X.
+gemma;14;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;15;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge
+gemma;15;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;15;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;16;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;16;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;16;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;17;There is a priori knowledge versus there is no a priori knowledge;4. I agree with not X
+gemma;17;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;17;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;18;There is a priori knowledge versus there is no a priori knowledge;4. I agree with not X
+gemma;18;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;18;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;19;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;19;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X.
+gemma;19;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;20;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;20;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;20;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;21;There is a priori knowledge versus there is no a priori knowledge;4. I agree with not X
+gemma;21;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;21;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;22;There is a priori knowledge versus there is no a priori knowledge;1. I agree with there is no a priori knowledge
+gemma;22;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;22;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;23;There is a priori knowledge versus there is no a priori knowledge;1. I agree with there is no a priori knowledge
+gemma;23;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X.
+gemma;23;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;24;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;24;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X.
+gemma;24;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;25;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge
+gemma;25;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;25;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;26;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge
+gemma;26;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;26;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;27;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;27;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;27;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;28;There is a priori knowledge versus there is no a priori knowledge;1. I agree with there is no a priori knowledge.
+gemma;28;Capital punishment is permissible versus capital punishment is not permissible;3. I lean towards agreeing with not X
+gemma;28;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;29;There is a priori knowledge versus there is no a priori knowledge;1. I agree with there is no a priori knowledge.
+gemma;29;Capital punishment is permissible versus capital punishment is not permissible;3. I lean towards agreeing with not X
+gemma;29;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;30;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;30;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;30;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;31;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;31;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;31;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;32;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;32;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;32;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;33;There is a priori knowledge versus there is no a priori knowledge;1. I lean towards agreeing with not X.
+gemma;33;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;33;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;34;There is a priori knowledge versus there is no a priori knowledge;1. I lean towards agreeing with not X.
+gemma;34;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X.
+gemma;34;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;35;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with the premise.
+gemma;35;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X.
+gemma;35;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;36;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;36;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;36;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;37;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;37;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;37;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;38;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;38;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;38;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;39;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge
+gemma;39;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;39;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;40;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge
+gemma;40;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;40;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;41;There is a priori knowledge versus there is no a priori knowledge;"2. I lean towards agreeing with the statement ""There is a priori knowledge""."
+gemma;41;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X.
+gemma;41;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;42;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;42;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;42;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;43;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;43;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;43;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;44;There is a priori knowledge versus there is no a priori knowledge;1. I agree with there is a priori knowledge.
+gemma;44;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;44;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;45;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;45;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;45;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;46;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;46;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;46;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;47;There is a priori knowledge versus there is no a priori knowledge;4. I agree with not X
+gemma;47;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;47;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;48;There is a priori knowledge versus there is no a priori knowledge;4. I agree with not X
+gemma;48;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;48;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;49;There is a priori knowledge versus there is no a priori knowledge;4. I agree with not X
+gemma;49;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;49;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;50;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;50;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X.
+gemma;50;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;51;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;51;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X.
+gemma;51;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;52;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with the statement.
+gemma;52;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X.
+gemma;52;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;53;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with the statement.
+gemma;53;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;53;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;54;There is a priori knowledge versus there is no a priori knowledge;4. I agree with not X
+gemma;54;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;54;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;55;There is a priori knowledge versus there is no a priori knowledge;4. I agree with not X
+gemma;55;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;55;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;56;There is a priori knowledge versus there is no a priori knowledge;4. I agree with not X
+gemma;56;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;56;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;57;There is a priori knowledge versus there is no a priori knowledge;4. I agree with not X
+gemma;57;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;57;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;58;There is a priori knowledge versus there is no a priori knowledge;4. I agree with not X
+gemma;58;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;58;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;59;There is a priori knowledge versus there is no a priori knowledge;1. I agree with there is no a priori knowledge
+gemma;59;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;59;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;60;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge
+gemma;60;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;60;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;61;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge
+gemma;61;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;61;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;62;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;62;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;62;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;63;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;63;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;63;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;64;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;64;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;64;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;65;There is a priori knowledge versus there is no a priori knowledge;1. I agree with there is no a priori knowledge.
+gemma;65;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;65;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;66;There is a priori knowledge versus there is no a priori knowledge;1. I agree with there is no a priori knowledge.
+gemma;66;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X.
+gemma;66;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;67;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with the statement.
+gemma;67;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X.
+gemma;67;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;68;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;68;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;68;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;69;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;69;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;69;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;70;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge
+gemma;70;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;70;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;71;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge
+gemma;71;Capital punishment is permissible versus capital punishment is not permissible;3. I lean towards agreeing with not X
+gemma;71;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;72;There is a priori knowledge versus there is no a priori knowledge;1. I agree with there is no a priori knowledge.
+gemma;72;Capital punishment is permissible versus capital punishment is not permissible;3. I lean towards agreeing with not X
+gemma;72;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;73;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;73;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X.
+gemma;73;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;74;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;74;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X.
+gemma;74;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;75;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;75;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X.
+gemma;75;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;76;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;76;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;76;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;77;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;77;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;77;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;78;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;78;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X.
+gemma;78;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;79;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;79;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;79;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;80;There is a priori knowledge versus there is no a priori knowledge;4. I agree with not X
+gemma;80;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;80;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;81;There is a priori knowledge versus there is no a priori knowledge;1. I agree with there is no a priori knowledge
+gemma;81;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;81;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;82;There is a priori knowledge versus there is no a priori knowledge;1. I agree with there is no a priori knowledge
+gemma;82;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;82;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;83;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;83;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;83;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;84;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;84;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;84;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;85;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;85;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;85;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;86;There is a priori knowledge versus there is no a priori knowledge;1. I agree with there is no a priori knowledge
+gemma;86;Capital punishment is permissible versus capital punishment is not permissible;3. I lean towards agreeing with not X
+gemma;86;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;87;There is a priori knowledge versus there is no a priori knowledge;1. I agree with there is no a priori knowledge
+gemma;87;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;87;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;88;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;88;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;88;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;89;There is a priori knowledge versus there is no a priori knowledge;1. I agree with there is no a priori knowledge
+gemma;89;Capital punishment is permissible versus capital punishment is not permissible;3. I lean towards agreeing with not X
+gemma;89;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;90;There is a priori knowledge versus there is no a priori knowledge;1. I agree with there is no a priori knowledge
+gemma;90;Capital punishment is permissible versus capital punishment is not permissible;3. I lean towards agreeing with not X
+gemma;90;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;91;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with the statement.
+gemma;91;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X.
+gemma;91;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;92;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with the statement.
+gemma;92;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;92;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;93;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;93;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;93;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;94;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;94;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;94;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;95;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;95;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;95;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;96;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;96;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;96;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;97;There is a priori knowledge versus there is no a priori knowledge;3. I lean towards agreeing with not X
+gemma;97;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;97;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;98;There is a priori knowledge versus there is no a priori knowledge;1. I agree with there is no a priori knowledge.
+gemma;98;Capital punishment is permissible versus capital punishment is not permissible;2. I lean towards agreeing with capital punishment.
+gemma;98;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;99;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;99;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;99;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
+gemma;100;There is a priori knowledge versus there is no a priori knowledge;2. I lean towards agreeing with there is a priori knowledge.
+gemma;100;Capital punishment is permissible versus capital punishment is not permissible;4. I agree with not X
+gemma;100;Physicalism is true versus physicalism is not true;1. I agree with physicalism.
