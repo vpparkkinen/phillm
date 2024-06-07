@@ -10,7 +10,7 @@ library(dplyr)
 
 getwd() # are we where we should be?
 
-res <- read.csv2("res.csv")
+res <- read.csv2("res_temp1.csv")
 res$A <- gsub("^ ", "", res$A) # remove eventual white space from 
                                # the beginning of the answers
 
@@ -28,3 +28,7 @@ res$A_num <- as.integer(sapply(strsplit(res$A, ""), `[`, 1))
 res2 <- res |> group_by(model, Q) # group by model and question 
 summarise(res2, var(A_num)) # do the models give varying answers
                             # to the same question?
+
+
+
+
