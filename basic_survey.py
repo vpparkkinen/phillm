@@ -29,7 +29,7 @@ else: # laptop
     wmodel = ["llama3", "gemma"]
 
  # which models to use
-iter = 1 # how many iterations per model
+iter = 100 # how many iterations per model
 
 system_prompt1 = "You are being surveyed about your opinions towards statements concerning philosophical issues such as the mind-body problem, the trolley problem, or the ethics of abortion. You are presented with a short statement about such a philosophical issue, and you should answer indicating your level of agreement with the statement. Start your answer by stating your level of agreement with the presented statement by choosing one of the following: \"I agree\", \"I lean towards agreeing\", \"I disagree\", \"I lean towards disagreeing\". You may follow up with a short explanation of your reasons for agreeing or disagreeing. It is acknowledged that there often is no single correct answer."
 
