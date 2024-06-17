@@ -20,11 +20,13 @@ def read_qs(filename):
                 items.append(item.rstrip())
         return items
 
-li = read_qs("tf.txt") # read in the questions
+li = read_qs("tf_small.txt") # read in the questions
 
 # choose models -- bigger models if running on a bigger rig
 if os.cpu_count() > 16:
-    wmodel = ["llama3:70b", "mistral", "gemma"]
+    wmodel = ["llama3:70b",
+              "llama3:latest",
+              "llama3:8b-instruct-q8_0"]
 else: # laptop
     wmodel = ["llama3", "gemma"]
 
@@ -51,7 +53,7 @@ resp = [["model", "iteration", "Q", "A"]]
 # pitch the questions to each model `iter` times
 # do we want to vary temperature, too?
 for mod in wmodel:
-    llm = Ollama(model = mod, num_gpu = 60, temperature = 1)
+    llm = Ollama(model = mod, num_gpu = 60, temperature = 0)
     chain = prompt | llm | parser
     print(mod) # which model is going slow?
     for i in range(1, iter + 1):
@@ -61,8 +63,9 @@ for mod in wmodel:
                          i,
                          val,
                          chain.invoke({"input": val})])
+            resp[-1][-1]
 
 
-with open("res_temp1.csv", "wt") as rf:
+with open("llamagemma_ls.csv", "wt") as rf:
     wrow = csv.writer(rf, delimiter = ";")
     wrow.writerows(resp)

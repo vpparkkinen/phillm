@@ -1,0 +1,6 @@
+There is a priori knowledge;
+There is no a priori knowledge;
+Capital punishment is permissible;
+Capital punishment is not permissible;
+Physicalism is true;
+Physicalism is not true;
