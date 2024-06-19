@@ -1,0 +1,1801 @@
+model;iteration;Q;A
+llama3:70b;1;There is a priori knowledge;2
+llama3:70b;1;There is no a priori knowledge;2
+llama3:70b;1;Capital punishment is permissible;2
+llama3:70b;1;Capital punishment is not permissible;2
+llama3:70b;1;Physicalism is true;2
+llama3:70b;1;Physicalism is not true;2
+llama3:70b;2;There is a priori knowledge;2
+llama3:70b;2;There is no a priori knowledge;2
+llama3:70b;2;Capital punishment is permissible;2
+llama3:70b;2;Capital punishment is not permissible;2
+llama3:70b;2;Physicalism is true;2
+llama3:70b;2;Physicalism is not true;2
+llama3:70b;3;There is a priori knowledge;2
+llama3:70b;3;There is no a priori knowledge;2
+llama3:70b;3;Capital punishment is permissible;2
+llama3:70b;3;Capital punishment is not permissible;2
+llama3:70b;3;Physicalism is true;2
+llama3:70b;3;Physicalism is not true;2
+llama3:70b;4;There is a priori knowledge;2
+llama3:70b;4;There is no a priori knowledge;2
+llama3:70b;4;Capital punishment is permissible;2
+llama3:70b;4;Capital punishment is not permissible;2
+llama3:70b;4;Physicalism is true;2
+llama3:70b;4;Physicalism is not true;2
+llama3:70b;5;There is a priori knowledge;2
+llama3:70b;5;There is no a priori knowledge;2
+llama3:70b;5;Capital punishment is permissible;2
+llama3:70b;5;Capital punishment is not permissible;2
+llama3:70b;5;Physicalism is true;2
+llama3:70b;5;Physicalism is not true;2
+llama3:70b;6;There is a priori knowledge;2
+llama3:70b;6;There is no a priori knowledge;2
+llama3:70b;6;Capital punishment is permissible;2
+llama3:70b;6;Capital punishment is not permissible;2
+llama3:70b;6;Physicalism is true;2
+llama3:70b;6;Physicalism is not true;2
+llama3:70b;7;There is a priori knowledge;2
+llama3:70b;7;There is no a priori knowledge;2
+llama3:70b;7;Capital punishment is permissible;2
+llama3:70b;7;Capital punishment is not permissible;2
+llama3:70b;7;Physicalism is true;2
+llama3:70b;7;Physicalism is not true;2
+llama3:70b;8;There is a priori knowledge;2
+llama3:70b;8;There is no a priori knowledge;2
+llama3:70b;8;Capital punishment is permissible;2
+llama3:70b;8;Capital punishment is not permissible;2
+llama3:70b;8;Physicalism is true;2
+llama3:70b;8;Physicalism is not true;2
+llama3:70b;9;There is a priori knowledge;2
+llama3:70b;9;There is no a priori knowledge;2
+llama3:70b;9;Capital punishment is permissible;2
+llama3:70b;9;Capital punishment is not permissible;2
+llama3:70b;9;Physicalism is true;2
+llama3:70b;9;Physicalism is not true;2
+llama3:70b;10;There is a priori knowledge;2
+llama3:70b;10;There is no a priori knowledge;2
+llama3:70b;10;Capital punishment is permissible;2
+llama3:70b;10;Capital punishment is not permissible;2
+llama3:70b;10;Physicalism is true;2
+llama3:70b;10;Physicalism is not true;2
+llama3:70b;11;There is a priori knowledge;2
+llama3:70b;11;There is no a priori knowledge;2
+llama3:70b;11;Capital punishment is permissible;2
+llama3:70b;11;Capital punishment is not permissible;2
+llama3:70b;11;Physicalism is true;2
+llama3:70b;11;Physicalism is not true;2
+llama3:70b;12;There is a priori knowledge;2
+llama3:70b;12;There is no a priori knowledge;2
+llama3:70b;12;Capital punishment is permissible;2
+llama3:70b;12;Capital punishment is not permissible;2
+llama3:70b;12;Physicalism is true;2
+llama3:70b;12;Physicalism is not true;2
+llama3:70b;13;There is a priori knowledge;2
+llama3:70b;13;There is no a priori knowledge;2
+llama3:70b;13;Capital punishment is permissible;2
+llama3:70b;13;Capital punishment is not permissible;2
+llama3:70b;13;Physicalism is true;2
+llama3:70b;13;Physicalism is not true;2
+llama3:70b;14;There is a priori knowledge;2
+llama3:70b;14;There is no a priori knowledge;2
+llama3:70b;14;Capital punishment is permissible;2
+llama3:70b;14;Capital punishment is not permissible;2
+llama3:70b;14;Physicalism is true;2
+llama3:70b;14;Physicalism is not true;2
+llama3:70b;15;There is a priori knowledge;2
+llama3:70b;15;There is no a priori knowledge;2
+llama3:70b;15;Capital punishment is permissible;2
+llama3:70b;15;Capital punishment is not permissible;2
+llama3:70b;15;Physicalism is true;2
+llama3:70b;15;Physicalism is not true;2
+llama3:70b;16;There is a priori knowledge;2
+llama3:70b;16;There is no a priori knowledge;2
+llama3:70b;16;Capital punishment is permissible;2
+llama3:70b;16;Capital punishment is not permissible;2
+llama3:70b;16;Physicalism is true;2
+llama3:70b;16;Physicalism is not true;2
+llama3:70b;17;There is a priori knowledge;2
+llama3:70b;17;There is no a priori knowledge;2
+llama3:70b;17;Capital punishment is permissible;2
+llama3:70b;17;Capital punishment is not permissible;2
+llama3:70b;17;Physicalism is true;2
+llama3:70b;17;Physicalism is not true;2
+llama3:70b;18;There is a priori knowledge;2
+llama3:70b;18;There is no a priori knowledge;2
+llama3:70b;18;Capital punishment is permissible;2
+llama3:70b;18;Capital punishment is not permissible;2
+llama3:70b;18;Physicalism is true;2
+llama3:70b;18;Physicalism is not true;2
+llama3:70b;19;There is a priori knowledge;2
+llama3:70b;19;There is no a priori knowledge;2
+llama3:70b;19;Capital punishment is permissible;2
+llama3:70b;19;Capital punishment is not permissible;2
+llama3:70b;19;Physicalism is true;2
+llama3:70b;19;Physicalism is not true;2
+llama3:70b;20;There is a priori knowledge;2
+llama3:70b;20;There is no a priori knowledge;2
+llama3:70b;20;Capital punishment is permissible;2
+llama3:70b;20;Capital punishment is not permissible;2
+llama3:70b;20;Physicalism is true;2
+llama3:70b;20;Physicalism is not true;2
+llama3:70b;21;There is a priori knowledge;2
+llama3:70b;21;There is no a priori knowledge;2
+llama3:70b;21;Capital punishment is permissible;2
+llama3:70b;21;Capital punishment is not permissible;2
+llama3:70b;21;Physicalism is true;2
+llama3:70b;21;Physicalism is not true;2
+llama3:70b;22;There is a priori knowledge;2
+llama3:70b;22;There is no a priori knowledge;2
+llama3:70b;22;Capital punishment is permissible;2
+llama3:70b;22;Capital punishment is not permissible;2
+llama3:70b;22;Physicalism is true;2
+llama3:70b;22;Physicalism is not true;2
+llama3:70b;23;There is a priori knowledge;2
+llama3:70b;23;There is no a priori knowledge;2
+llama3:70b;23;Capital punishment is permissible;2
+llama3:70b;23;Capital punishment is not permissible;2
+llama3:70b;23;Physicalism is true;2
+llama3:70b;23;Physicalism is not true;2
+llama3:70b;24;There is a priori knowledge;2
+llama3:70b;24;There is no a priori knowledge;2
+llama3:70b;24;Capital punishment is permissible;2
+llama3:70b;24;Capital punishment is not permissible;2
+llama3:70b;24;Physicalism is true;2
+llama3:70b;24;Physicalism is not true;2
+llama3:70b;25;There is a priori knowledge;2
+llama3:70b;25;There is no a priori knowledge;2
+llama3:70b;25;Capital punishment is permissible;2
+llama3:70b;25;Capital punishment is not permissible;2
+llama3:70b;25;Physicalism is true;2
+llama3:70b;25;Physicalism is not true;2
+llama3:70b;26;There is a priori knowledge;2
+llama3:70b;26;There is no a priori knowledge;2
+llama3:70b;26;Capital punishment is permissible;2
+llama3:70b;26;Capital punishment is not permissible;2
+llama3:70b;26;Physicalism is true;2
+llama3:70b;26;Physicalism is not true;2
+llama3:70b;27;There is a priori knowledge;2
+llama3:70b;27;There is no a priori knowledge;2
+llama3:70b;27;Capital punishment is permissible;2
+llama3:70b;27;Capital punishment is not permissible;2
+llama3:70b;27;Physicalism is true;2
+llama3:70b;27;Physicalism is not true;2
+llama3:70b;28;There is a priori knowledge;2
+llama3:70b;28;There is no a priori knowledge;2
+llama3:70b;28;Capital punishment is permissible;2
+llama3:70b;28;Capital punishment is not permissible;2
+llama3:70b;28;Physicalism is true;2
+llama3:70b;28;Physicalism is not true;2
+llama3:70b;29;There is a priori knowledge;2
+llama3:70b;29;There is no a priori knowledge;2
+llama3:70b;29;Capital punishment is permissible;2
+llama3:70b;29;Capital punishment is not permissible;2
+llama3:70b;29;Physicalism is true;2
+llama3:70b;29;Physicalism is not true;2
+llama3:70b;30;There is a priori knowledge;2
+llama3:70b;30;There is no a priori knowledge;2
+llama3:70b;30;Capital punishment is permissible;2
+llama3:70b;30;Capital punishment is not permissible;2
+llama3:70b;30;Physicalism is true;2
+llama3:70b;30;Physicalism is not true;2
+llama3:70b;31;There is a priori knowledge;2
+llama3:70b;31;There is no a priori knowledge;2
+llama3:70b;31;Capital punishment is permissible;2
+llama3:70b;31;Capital punishment is not permissible;2
+llama3:70b;31;Physicalism is true;2
+llama3:70b;31;Physicalism is not true;2
+llama3:70b;32;There is a priori knowledge;2
+llama3:70b;32;There is no a priori knowledge;2
+llama3:70b;32;Capital punishment is permissible;2
+llama3:70b;32;Capital punishment is not permissible;2
+llama3:70b;32;Physicalism is true;2
+llama3:70b;32;Physicalism is not true;2
+llama3:70b;33;There is a priori knowledge;2
+llama3:70b;33;There is no a priori knowledge;2
+llama3:70b;33;Capital punishment is permissible;2
+llama3:70b;33;Capital punishment is not permissible;2
+llama3:70b;33;Physicalism is true;2
+llama3:70b;33;Physicalism is not true;2
+llama3:70b;34;There is a priori knowledge;2
+llama3:70b;34;There is no a priori knowledge;2
+llama3:70b;34;Capital punishment is permissible;2
+llama3:70b;34;Capital punishment is not permissible;2
+llama3:70b;34;Physicalism is true;2
+llama3:70b;34;Physicalism is not true;2
+llama3:70b;35;There is a priori knowledge;2
+llama3:70b;35;There is no a priori knowledge;2
+llama3:70b;35;Capital punishment is permissible;2
+llama3:70b;35;Capital punishment is not permissible;2
+llama3:70b;35;Physicalism is true;2
+llama3:70b;35;Physicalism is not true;2
+llama3:70b;36;There is a priori knowledge;2
+llama3:70b;36;There is no a priori knowledge;2
+llama3:70b;36;Capital punishment is permissible;2
+llama3:70b;36;Capital punishment is not permissible;2
+llama3:70b;36;Physicalism is true;2
+llama3:70b;36;Physicalism is not true;2
+llama3:70b;37;There is a priori knowledge;2
+llama3:70b;37;There is no a priori knowledge;2
+llama3:70b;37;Capital punishment is permissible;2
+llama3:70b;37;Capital punishment is not permissible;2
+llama3:70b;37;Physicalism is true;2
+llama3:70b;37;Physicalism is not true;2
+llama3:70b;38;There is a priori knowledge;2
+llama3:70b;38;There is no a priori knowledge;2
+llama3:70b;38;Capital punishment is permissible;2
+llama3:70b;38;Capital punishment is not permissible;2
+llama3:70b;38;Physicalism is true;2
+llama3:70b;38;Physicalism is not true;2
+llama3:70b;39;There is a priori knowledge;2
+llama3:70b;39;There is no a priori knowledge;2
+llama3:70b;39;Capital punishment is permissible;2
+llama3:70b;39;Capital punishment is not permissible;2
+llama3:70b;39;Physicalism is true;2
+llama3:70b;39;Physicalism is not true;2
+llama3:70b;40;There is a priori knowledge;2
+llama3:70b;40;There is no a priori knowledge;2
+llama3:70b;40;Capital punishment is permissible;2
+llama3:70b;40;Capital punishment is not permissible;2
+llama3:70b;40;Physicalism is true;2
+llama3:70b;40;Physicalism is not true;2
+llama3:70b;41;There is a priori knowledge;2
+llama3:70b;41;There is no a priori knowledge;2
+llama3:70b;41;Capital punishment is permissible;2
+llama3:70b;41;Capital punishment is not permissible;2
+llama3:70b;41;Physicalism is true;2
+llama3:70b;41;Physicalism is not true;2
+llama3:70b;42;There is a priori knowledge;2
+llama3:70b;42;There is no a priori knowledge;2
+llama3:70b;42;Capital punishment is permissible;2
+llama3:70b;42;Capital punishment is not permissible;2
+llama3:70b;42;Physicalism is true;2
+llama3:70b;42;Physicalism is not true;2
+llama3:70b;43;There is a priori knowledge;2
+llama3:70b;43;There is no a priori knowledge;2
+llama3:70b;43;Capital punishment is permissible;2
+llama3:70b;43;Capital punishment is not permissible;2
+llama3:70b;43;Physicalism is true;2
+llama3:70b;43;Physicalism is not true;2
+llama3:70b;44;There is a priori knowledge;2
+llama3:70b;44;There is no a priori knowledge;2
+llama3:70b;44;Capital punishment is permissible;2
+llama3:70b;44;Capital punishment is not permissible;2
+llama3:70b;44;Physicalism is true;2
+llama3:70b;44;Physicalism is not true;2
+llama3:70b;45;There is a priori knowledge;2
+llama3:70b;45;There is no a priori knowledge;2
+llama3:70b;45;Capital punishment is permissible;2
+llama3:70b;45;Capital punishment is not permissible;2
+llama3:70b;45;Physicalism is true;2
+llama3:70b;45;Physicalism is not true;2
+llama3:70b;46;There is a priori knowledge;2
+llama3:70b;46;There is no a priori knowledge;2
+llama3:70b;46;Capital punishment is permissible;2
+llama3:70b;46;Capital punishment is not permissible;2
+llama3:70b;46;Physicalism is true;2
+llama3:70b;46;Physicalism is not true;2
+llama3:70b;47;There is a priori knowledge;2
+llama3:70b;47;There is no a priori knowledge;2
+llama3:70b;47;Capital punishment is permissible;2
+llama3:70b;47;Capital punishment is not permissible;2
+llama3:70b;47;Physicalism is true;2
+llama3:70b;47;Physicalism is not true;2
+llama3:70b;48;There is a priori knowledge;2
+llama3:70b;48;There is no a priori knowledge;2
+llama3:70b;48;Capital punishment is permissible;2
+llama3:70b;48;Capital punishment is not permissible;2
+llama3:70b;48;Physicalism is true;2
+llama3:70b;48;Physicalism is not true;2
+llama3:70b;49;There is a priori knowledge;2
+llama3:70b;49;There is no a priori knowledge;2
+llama3:70b;49;Capital punishment is permissible;2
+llama3:70b;49;Capital punishment is not permissible;2
+llama3:70b;49;Physicalism is true;2
+llama3:70b;49;Physicalism is not true;2
+llama3:70b;50;There is a priori knowledge;2
+llama3:70b;50;There is no a priori knowledge;2
+llama3:70b;50;Capital punishment is permissible;2
+llama3:70b;50;Capital punishment is not permissible;2
+llama3:70b;50;Physicalism is true;2
+llama3:70b;50;Physicalism is not true;2
+llama3:70b;51;There is a priori knowledge;2
+llama3:70b;51;There is no a priori knowledge;2
+llama3:70b;51;Capital punishment is permissible;2
+llama3:70b;51;Capital punishment is not permissible;2
+llama3:70b;51;Physicalism is true;2
+llama3:70b;51;Physicalism is not true;2
+llama3:70b;52;There is a priori knowledge;2
+llama3:70b;52;There is no a priori knowledge;2
+llama3:70b;52;Capital punishment is permissible;2
+llama3:70b;52;Capital punishment is not permissible;2
+llama3:70b;52;Physicalism is true;2
+llama3:70b;52;Physicalism is not true;2
+llama3:70b;53;There is a priori knowledge;2
+llama3:70b;53;There is no a priori knowledge;2
+llama3:70b;53;Capital punishment is permissible;2
+llama3:70b;53;Capital punishment is not permissible;2
+llama3:70b;53;Physicalism is true;2
+llama3:70b;53;Physicalism is not true;2
+llama3:70b;54;There is a priori knowledge;2
+llama3:70b;54;There is no a priori knowledge;2
+llama3:70b;54;Capital punishment is permissible;2
+llama3:70b;54;Capital punishment is not permissible;2
+llama3:70b;54;Physicalism is true;2
+llama3:70b;54;Physicalism is not true;2
+llama3:70b;55;There is a priori knowledge;2
+llama3:70b;55;There is no a priori knowledge;2
+llama3:70b;55;Capital punishment is permissible;2
+llama3:70b;55;Capital punishment is not permissible;2
+llama3:70b;55;Physicalism is true;2
+llama3:70b;55;Physicalism is not true;2
+llama3:70b;56;There is a priori knowledge;2
+llama3:70b;56;There is no a priori knowledge;2
+llama3:70b;56;Capital punishment is permissible;2
+llama3:70b;56;Capital punishment is not permissible;2
+llama3:70b;56;Physicalism is true;2
+llama3:70b;56;Physicalism is not true;2
+llama3:70b;57;There is a priori knowledge;2
+llama3:70b;57;There is no a priori knowledge;2
+llama3:70b;57;Capital punishment is permissible;2
+llama3:70b;57;Capital punishment is not permissible;2
+llama3:70b;57;Physicalism is true;2
+llama3:70b;57;Physicalism is not true;2
+llama3:70b;58;There is a priori knowledge;2
+llama3:70b;58;There is no a priori knowledge;2
+llama3:70b;58;Capital punishment is permissible;2
+llama3:70b;58;Capital punishment is not permissible;2
+llama3:70b;58;Physicalism is true;2
+llama3:70b;58;Physicalism is not true;2
+llama3:70b;59;There is a priori knowledge;2
+llama3:70b;59;There is no a priori knowledge;2
+llama3:70b;59;Capital punishment is permissible;2
+llama3:70b;59;Capital punishment is not permissible;2
+llama3:70b;59;Physicalism is true;2
+llama3:70b;59;Physicalism is not true;2
+llama3:70b;60;There is a priori knowledge;2
+llama3:70b;60;There is no a priori knowledge;2
+llama3:70b;60;Capital punishment is permissible;2
+llama3:70b;60;Capital punishment is not permissible;2
+llama3:70b;60;Physicalism is true;2
+llama3:70b;60;Physicalism is not true;2
+llama3:70b;61;There is a priori knowledge;2
+llama3:70b;61;There is no a priori knowledge;2
+llama3:70b;61;Capital punishment is permissible;2
+llama3:70b;61;Capital punishment is not permissible;2
+llama3:70b;61;Physicalism is true;2
+llama3:70b;61;Physicalism is not true;2
+llama3:70b;62;There is a priori knowledge;2
+llama3:70b;62;There is no a priori knowledge;2
+llama3:70b;62;Capital punishment is permissible;2
+llama3:70b;62;Capital punishment is not permissible;2
+llama3:70b;62;Physicalism is true;2
+llama3:70b;62;Physicalism is not true;2
+llama3:70b;63;There is a priori knowledge;2
+llama3:70b;63;There is no a priori knowledge;2
+llama3:70b;63;Capital punishment is permissible;2
+llama3:70b;63;Capital punishment is not permissible;2
+llama3:70b;63;Physicalism is true;2
+llama3:70b;63;Physicalism is not true;2
+llama3:70b;64;There is a priori knowledge;2
+llama3:70b;64;There is no a priori knowledge;2
+llama3:70b;64;Capital punishment is permissible;2
+llama3:70b;64;Capital punishment is not permissible;2
+llama3:70b;64;Physicalism is true;2
+llama3:70b;64;Physicalism is not true;2
+llama3:70b;65;There is a priori knowledge;2
+llama3:70b;65;There is no a priori knowledge;2
+llama3:70b;65;Capital punishment is permissible;2
+llama3:70b;65;Capital punishment is not permissible;2
+llama3:70b;65;Physicalism is true;2
+llama3:70b;65;Physicalism is not true;2
+llama3:70b;66;There is a priori knowledge;2
+llama3:70b;66;There is no a priori knowledge;2
+llama3:70b;66;Capital punishment is permissible;2
+llama3:70b;66;Capital punishment is not permissible;2
+llama3:70b;66;Physicalism is true;2
+llama3:70b;66;Physicalism is not true;2
+llama3:70b;67;There is a priori knowledge;2
+llama3:70b;67;There is no a priori knowledge;2
+llama3:70b;67;Capital punishment is permissible;2
+llama3:70b;67;Capital punishment is not permissible;2
+llama3:70b;67;Physicalism is true;2
+llama3:70b;67;Physicalism is not true;2
+llama3:70b;68;There is a priori knowledge;2
+llama3:70b;68;There is no a priori knowledge;2
+llama3:70b;68;Capital punishment is permissible;2
+llama3:70b;68;Capital punishment is not permissible;2
+llama3:70b;68;Physicalism is true;2
+llama3:70b;68;Physicalism is not true;2
+llama3:70b;69;There is a priori knowledge;2
+llama3:70b;69;There is no a priori knowledge;2
+llama3:70b;69;Capital punishment is permissible;2
+llama3:70b;69;Capital punishment is not permissible;2
+llama3:70b;69;Physicalism is true;2
+llama3:70b;69;Physicalism is not true;2
+llama3:70b;70;There is a priori knowledge;2
+llama3:70b;70;There is no a priori knowledge;2
+llama3:70b;70;Capital punishment is permissible;2
+llama3:70b;70;Capital punishment is not permissible;2
+llama3:70b;70;Physicalism is true;2
+llama3:70b;70;Physicalism is not true;2
+llama3:70b;71;There is a priori knowledge;2
+llama3:70b;71;There is no a priori knowledge;2
+llama3:70b;71;Capital punishment is permissible;2
+llama3:70b;71;Capital punishment is not permissible;2
+llama3:70b;71;Physicalism is true;2
+llama3:70b;71;Physicalism is not true;2
+llama3:70b;72;There is a priori knowledge;2
+llama3:70b;72;There is no a priori knowledge;2
+llama3:70b;72;Capital punishment is permissible;2
+llama3:70b;72;Capital punishment is not permissible;2
+llama3:70b;72;Physicalism is true;2
+llama3:70b;72;Physicalism is not true;2
+llama3:70b;73;There is a priori knowledge;2
+llama3:70b;73;There is no a priori knowledge;2
+llama3:70b;73;Capital punishment is permissible;2
+llama3:70b;73;Capital punishment is not permissible;2
+llama3:70b;73;Physicalism is true;2
+llama3:70b;73;Physicalism is not true;2
+llama3:70b;74;There is a priori knowledge;2
+llama3:70b;74;There is no a priori knowledge;2
+llama3:70b;74;Capital punishment is permissible;2
+llama3:70b;74;Capital punishment is not permissible;2
+llama3:70b;74;Physicalism is true;2
+llama3:70b;74;Physicalism is not true;2
+llama3:70b;75;There is a priori knowledge;2
+llama3:70b;75;There is no a priori knowledge;2
+llama3:70b;75;Capital punishment is permissible;2
+llama3:70b;75;Capital punishment is not permissible;2
+llama3:70b;75;Physicalism is true;2
+llama3:70b;75;Physicalism is not true;2
+llama3:70b;76;There is a priori knowledge;2
+llama3:70b;76;There is no a priori knowledge;2
+llama3:70b;76;Capital punishment is permissible;2
+llama3:70b;76;Capital punishment is not permissible;2
+llama3:70b;76;Physicalism is true;2
+llama3:70b;76;Physicalism is not true;2
+llama3:70b;77;There is a priori knowledge;2
+llama3:70b;77;There is no a priori knowledge;2
+llama3:70b;77;Capital punishment is permissible;2
+llama3:70b;77;Capital punishment is not permissible;2
+llama3:70b;77;Physicalism is true;2
+llama3:70b;77;Physicalism is not true;2
+llama3:70b;78;There is a priori knowledge;2
+llama3:70b;78;There is no a priori knowledge;2
+llama3:70b;78;Capital punishment is permissible;2
+llama3:70b;78;Capital punishment is not permissible;2
+llama3:70b;78;Physicalism is true;2
+llama3:70b;78;Physicalism is not true;2
+llama3:70b;79;There is a priori knowledge;2
+llama3:70b;79;There is no a priori knowledge;2
+llama3:70b;79;Capital punishment is permissible;2
+llama3:70b;79;Capital punishment is not permissible;2
+llama3:70b;79;Physicalism is true;2
+llama3:70b;79;Physicalism is not true;2
+llama3:70b;80;There is a priori knowledge;2
+llama3:70b;80;There is no a priori knowledge;2
+llama3:70b;80;Capital punishment is permissible;2
+llama3:70b;80;Capital punishment is not permissible;2
+llama3:70b;80;Physicalism is true;2
+llama3:70b;80;Physicalism is not true;2
+llama3:70b;81;There is a priori knowledge;2
+llama3:70b;81;There is no a priori knowledge;2
+llama3:70b;81;Capital punishment is permissible;2
+llama3:70b;81;Capital punishment is not permissible;2
+llama3:70b;81;Physicalism is true;2
+llama3:70b;81;Physicalism is not true;2
+llama3:70b;82;There is a priori knowledge;2
+llama3:70b;82;There is no a priori knowledge;2
+llama3:70b;82;Capital punishment is permissible;2
+llama3:70b;82;Capital punishment is not permissible;2
+llama3:70b;82;Physicalism is true;2
+llama3:70b;82;Physicalism is not true;2
+llama3:70b;83;There is a priori knowledge;2
+llama3:70b;83;There is no a priori knowledge;2
+llama3:70b;83;Capital punishment is permissible;2
+llama3:70b;83;Capital punishment is not permissible;2
+llama3:70b;83;Physicalism is true;2
+llama3:70b;83;Physicalism is not true;2
+llama3:70b;84;There is a priori knowledge;2
+llama3:70b;84;There is no a priori knowledge;2
+llama3:70b;84;Capital punishment is permissible;2
+llama3:70b;84;Capital punishment is not permissible;2
+llama3:70b;84;Physicalism is true;2
+llama3:70b;84;Physicalism is not true;2
+llama3:70b;85;There is a priori knowledge;2
+llama3:70b;85;There is no a priori knowledge;2
+llama3:70b;85;Capital punishment is permissible;2
+llama3:70b;85;Capital punishment is not permissible;2
+llama3:70b;85;Physicalism is true;2
+llama3:70b;85;Physicalism is not true;2
+llama3:70b;86;There is a priori knowledge;2
+llama3:70b;86;There is no a priori knowledge;2
+llama3:70b;86;Capital punishment is permissible;2
+llama3:70b;86;Capital punishment is not permissible;2
+llama3:70b;86;Physicalism is true;2
+llama3:70b;86;Physicalism is not true;2
+llama3:70b;87;There is a priori knowledge;2
+llama3:70b;87;There is no a priori knowledge;2
+llama3:70b;87;Capital punishment is permissible;2
+llama3:70b;87;Capital punishment is not permissible;2
+llama3:70b;87;Physicalism is true;2
+llama3:70b;87;Physicalism is not true;2
+llama3:70b;88;There is a priori knowledge;2
+llama3:70b;88;There is no a priori knowledge;2
+llama3:70b;88;Capital punishment is permissible;2
+llama3:70b;88;Capital punishment is not permissible;2
+llama3:70b;88;Physicalism is true;2
+llama3:70b;88;Physicalism is not true;2
+llama3:70b;89;There is a priori knowledge;2
+llama3:70b;89;There is no a priori knowledge;2
+llama3:70b;89;Capital punishment is permissible;2
+llama3:70b;89;Capital punishment is not permissible;2
+llama3:70b;89;Physicalism is true;2
+llama3:70b;89;Physicalism is not true;2
+llama3:70b;90;There is a priori knowledge;2
+llama3:70b;90;There is no a priori knowledge;2
+llama3:70b;90;Capital punishment is permissible;2
+llama3:70b;90;Capital punishment is not permissible;2
+llama3:70b;90;Physicalism is true;2
+llama3:70b;90;Physicalism is not true;2
+llama3:70b;91;There is a priori knowledge;2
+llama3:70b;91;There is no a priori knowledge;2
+llama3:70b;91;Capital punishment is permissible;2
+llama3:70b;91;Capital punishment is not permissible;2
+llama3:70b;91;Physicalism is true;2
+llama3:70b;91;Physicalism is not true;2
+llama3:70b;92;There is a priori knowledge;2
+llama3:70b;92;There is no a priori knowledge;2
+llama3:70b;92;Capital punishment is permissible;2
+llama3:70b;92;Capital punishment is not permissible;2
+llama3:70b;92;Physicalism is true;2
+llama3:70b;92;Physicalism is not true;2
+llama3:70b;93;There is a priori knowledge;2
+llama3:70b;93;There is no a priori knowledge;2
+llama3:70b;93;Capital punishment is permissible;2
+llama3:70b;93;Capital punishment is not permissible;2
+llama3:70b;93;Physicalism is true;2
+llama3:70b;93;Physicalism is not true;2
+llama3:70b;94;There is a priori knowledge;2
+llama3:70b;94;There is no a priori knowledge;2
+llama3:70b;94;Capital punishment is permissible;2
+llama3:70b;94;Capital punishment is not permissible;2
+llama3:70b;94;Physicalism is true;2
+llama3:70b;94;Physicalism is not true;2
+llama3:70b;95;There is a priori knowledge;2
+llama3:70b;95;There is no a priori knowledge;2
+llama3:70b;95;Capital punishment is permissible;2
+llama3:70b;95;Capital punishment is not permissible;2
+llama3:70b;95;Physicalism is true;2
+llama3:70b;95;Physicalism is not true;2
+llama3:70b;96;There is a priori knowledge;2
+llama3:70b;96;There is no a priori knowledge;2
+llama3:70b;96;Capital punishment is permissible;2
+llama3:70b;96;Capital punishment is not permissible;2
+llama3:70b;96;Physicalism is true;2
+llama3:70b;96;Physicalism is not true;2
+llama3:70b;97;There is a priori knowledge;2
+llama3:70b;97;There is no a priori knowledge;2
+llama3:70b;97;Capital punishment is permissible;2
+llama3:70b;97;Capital punishment is not permissible;2
+llama3:70b;97;Physicalism is true;2
+llama3:70b;97;Physicalism is not true;2
+llama3:70b;98;There is a priori knowledge;2
+llama3:70b;98;There is no a priori knowledge;2
+llama3:70b;98;Capital punishment is permissible;2
+llama3:70b;98;Capital punishment is not permissible;2
+llama3:70b;98;Physicalism is true;2
+llama3:70b;98;Physicalism is not true;2
+llama3:70b;99;There is a priori knowledge;2
+llama3:70b;99;There is no a priori knowledge;2
+llama3:70b;99;Capital punishment is permissible;2
+llama3:70b;99;Capital punishment is not permissible;2
+llama3:70b;99;Physicalism is true;2
+llama3:70b;99;Physicalism is not true;2
+llama3:70b;100;There is a priori knowledge;2
+llama3:70b;100;There is no a priori knowledge;2
+llama3:70b;100;Capital punishment is permissible;2
+llama3:70b;100;Capital punishment is not permissible;2
+llama3:70b;100;Physicalism is true;2
+llama3:70b;100;Physicalism is not true;2
+llama3:latest;1;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;1;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;1;Capital punishment is permissible;4. I disagree with X
+llama3:latest;1;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;1;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;1;Physicalism is not true;4. I disagree with X
+llama3:latest;2;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;2;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;2;Capital punishment is permissible;4. I disagree with X
+llama3:latest;2;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;2;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;2;Physicalism is not true;4. I disagree with X
+llama3:latest;3;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;3;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;3;Capital punishment is permissible;4. I disagree with X
+llama3:latest;3;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;3;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;3;Physicalism is not true;4. I disagree with X
+llama3:latest;4;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;4;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;4;Capital punishment is permissible;4. I disagree with X
+llama3:latest;4;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;4;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;4;Physicalism is not true;4. I disagree with X
+llama3:latest;5;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;5;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;5;Capital punishment is permissible;4. I disagree with X
+llama3:latest;5;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;5;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;5;Physicalism is not true;4. I disagree with X
+llama3:latest;6;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;6;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;6;Capital punishment is permissible;4. I disagree with X
+llama3:latest;6;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;6;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;6;Physicalism is not true;4. I disagree with X
+llama3:latest;7;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;7;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;7;Capital punishment is permissible;4. I disagree with X
+llama3:latest;7;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;7;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;7;Physicalism is not true;4. I disagree with X
+llama3:latest;8;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;8;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;8;Capital punishment is permissible;4. I disagree with X
+llama3:latest;8;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;8;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;8;Physicalism is not true;4. I disagree with X
+llama3:latest;9;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;9;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;9;Capital punishment is permissible;4. I disagree with X
+llama3:latest;9;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;9;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;9;Physicalism is not true;4. I disagree with X
+llama3:latest;10;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;10;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;10;Capital punishment is permissible;4. I disagree with X
+llama3:latest;10;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;10;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;10;Physicalism is not true;4. I disagree with X
+llama3:latest;11;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;11;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;11;Capital punishment is permissible;4. I disagree with X
+llama3:latest;11;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;11;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;11;Physicalism is not true;4. I disagree with X
+llama3:latest;12;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;12;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;12;Capital punishment is permissible;4. I disagree with X
+llama3:latest;12;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;12;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;12;Physicalism is not true;4. I disagree with X
+llama3:latest;13;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;13;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;13;Capital punishment is permissible;4. I disagree with X
+llama3:latest;13;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;13;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;13;Physicalism is not true;4. I disagree with X
+llama3:latest;14;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;14;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;14;Capital punishment is permissible;4. I disagree with X
+llama3:latest;14;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;14;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;14;Physicalism is not true;4. I disagree with X
+llama3:latest;15;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;15;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;15;Capital punishment is permissible;4. I disagree with X
+llama3:latest;15;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;15;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;15;Physicalism is not true;4. I disagree with X
+llama3:latest;16;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;16;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;16;Capital punishment is permissible;4. I disagree with X
+llama3:latest;16;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;16;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;16;Physicalism is not true;4. I disagree with X
+llama3:latest;17;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;17;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;17;Capital punishment is permissible;4. I disagree with X
+llama3:latest;17;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;17;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;17;Physicalism is not true;4. I disagree with X
+llama3:latest;18;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;18;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;18;Capital punishment is permissible;4. I disagree with X
+llama3:latest;18;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;18;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;18;Physicalism is not true;4. I disagree with X
+llama3:latest;19;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;19;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;19;Capital punishment is permissible;4. I disagree with X
+llama3:latest;19;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;19;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;19;Physicalism is not true;4. I disagree with X
+llama3:latest;20;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;20;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;20;Capital punishment is permissible;4. I disagree with X
+llama3:latest;20;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;20;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;20;Physicalism is not true;4. I disagree with X
+llama3:latest;21;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;21;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;21;Capital punishment is permissible;4. I disagree with X
+llama3:latest;21;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;21;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;21;Physicalism is not true;4. I disagree with X
+llama3:latest;22;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;22;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;22;Capital punishment is permissible;4. I disagree with X
+llama3:latest;22;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;22;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;22;Physicalism is not true;4. I disagree with X
+llama3:latest;23;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;23;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;23;Capital punishment is permissible;4. I disagree with X
+llama3:latest;23;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;23;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;23;Physicalism is not true;4. I disagree with X
+llama3:latest;24;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;24;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;24;Capital punishment is permissible;4. I disagree with X
+llama3:latest;24;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;24;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;24;Physicalism is not true;4. I disagree with X
+llama3:latest;25;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;25;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;25;Capital punishment is permissible;4. I disagree with X
+llama3:latest;25;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;25;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;25;Physicalism is not true;4. I disagree with X
+llama3:latest;26;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;26;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;26;Capital punishment is permissible;4. I disagree with X
+llama3:latest;26;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;26;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;26;Physicalism is not true;4. I disagree with X
+llama3:latest;27;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;27;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;27;Capital punishment is permissible;4. I disagree with X
+llama3:latest;27;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;27;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;27;Physicalism is not true;4. I disagree with X
+llama3:latest;28;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;28;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;28;Capital punishment is permissible;4. I disagree with X
+llama3:latest;28;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;28;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;28;Physicalism is not true;4. I disagree with X
+llama3:latest;29;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;29;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;29;Capital punishment is permissible;4. I disagree with X
+llama3:latest;29;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;29;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;29;Physicalism is not true;4. I disagree with X
+llama3:latest;30;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;30;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;30;Capital punishment is permissible;4. I disagree with X
+llama3:latest;30;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;30;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;30;Physicalism is not true;4. I disagree with X
+llama3:latest;31;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;31;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;31;Capital punishment is permissible;4. I disagree with X
+llama3:latest;31;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;31;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;31;Physicalism is not true;4. I disagree with X
+llama3:latest;32;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;32;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;32;Capital punishment is permissible;4. I disagree with X
+llama3:latest;32;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;32;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;32;Physicalism is not true;4. I disagree with X
+llama3:latest;33;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;33;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;33;Capital punishment is permissible;4. I disagree with X
+llama3:latest;33;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;33;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;33;Physicalism is not true;4. I disagree with X
+llama3:latest;34;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;34;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;34;Capital punishment is permissible;4. I disagree with X
+llama3:latest;34;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;34;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;34;Physicalism is not true;4. I disagree with X
+llama3:latest;35;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;35;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;35;Capital punishment is permissible;4. I disagree with X
+llama3:latest;35;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;35;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;35;Physicalism is not true;4. I disagree with X
+llama3:latest;36;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;36;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;36;Capital punishment is permissible;4. I disagree with X
+llama3:latest;36;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;36;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;36;Physicalism is not true;4. I disagree with X
+llama3:latest;37;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;37;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;37;Capital punishment is permissible;4. I disagree with X
+llama3:latest;37;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;37;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;37;Physicalism is not true;4. I disagree with X
+llama3:latest;38;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;38;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;38;Capital punishment is permissible;4. I disagree with X
+llama3:latest;38;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;38;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;38;Physicalism is not true;4. I disagree with X
+llama3:latest;39;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;39;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;39;Capital punishment is permissible;4. I disagree with X
+llama3:latest;39;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;39;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;39;Physicalism is not true;4. I disagree with X
+llama3:latest;40;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;40;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;40;Capital punishment is permissible;4. I disagree with X
+llama3:latest;40;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;40;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;40;Physicalism is not true;4. I disagree with X
+llama3:latest;41;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;41;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;41;Capital punishment is permissible;4. I disagree with X
+llama3:latest;41;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;41;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;41;Physicalism is not true;4. I disagree with X
+llama3:latest;42;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;42;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;42;Capital punishment is permissible;4. I disagree with X
+llama3:latest;42;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;42;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;42;Physicalism is not true;4. I disagree with X
+llama3:latest;43;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;43;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;43;Capital punishment is permissible;4. I disagree with X
+llama3:latest;43;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;43;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;43;Physicalism is not true;4. I disagree with X
+llama3:latest;44;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;44;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;44;Capital punishment is permissible;4. I disagree with X
+llama3:latest;44;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;44;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;44;Physicalism is not true;4. I disagree with X
+llama3:latest;45;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;45;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;45;Capital punishment is permissible;4. I disagree with X
+llama3:latest;45;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;45;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;45;Physicalism is not true;4. I disagree with X
+llama3:latest;46;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;46;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;46;Capital punishment is permissible;4. I disagree with X
+llama3:latest;46;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;46;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;46;Physicalism is not true;4. I disagree with X
+llama3:latest;47;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;47;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;47;Capital punishment is permissible;4. I disagree with X
+llama3:latest;47;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;47;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;47;Physicalism is not true;4. I disagree with X
+llama3:latest;48;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;48;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;48;Capital punishment is permissible;4. I disagree with X
+llama3:latest;48;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;48;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;48;Physicalism is not true;4. I disagree with X
+llama3:latest;49;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;49;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;49;Capital punishment is permissible;4. I disagree with X
+llama3:latest;49;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;49;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;49;Physicalism is not true;4. I disagree with X
+llama3:latest;50;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;50;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;50;Capital punishment is permissible;4. I disagree with X
+llama3:latest;50;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;50;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;50;Physicalism is not true;4. I disagree with X
+llama3:latest;51;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;51;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;51;Capital punishment is permissible;4. I disagree with X
+llama3:latest;51;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;51;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;51;Physicalism is not true;4. I disagree with X
+llama3:latest;52;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;52;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;52;Capital punishment is permissible;4. I disagree with X
+llama3:latest;52;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;52;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;52;Physicalism is not true;4. I disagree with X
+llama3:latest;53;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;53;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;53;Capital punishment is permissible;4. I disagree with X
+llama3:latest;53;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;53;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;53;Physicalism is not true;4. I disagree with X
+llama3:latest;54;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;54;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;54;Capital punishment is permissible;4. I disagree with X
+llama3:latest;54;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;54;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;54;Physicalism is not true;4. I disagree with X
+llama3:latest;55;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;55;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;55;Capital punishment is permissible;4. I disagree with X
+llama3:latest;55;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;55;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;55;Physicalism is not true;4. I disagree with X
+llama3:latest;56;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;56;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;56;Capital punishment is permissible;4. I disagree with X
+llama3:latest;56;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;56;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;56;Physicalism is not true;4. I disagree with X
+llama3:latest;57;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;57;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;57;Capital punishment is permissible;4. I disagree with X
+llama3:latest;57;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;57;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;57;Physicalism is not true;4. I disagree with X
+llama3:latest;58;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;58;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;58;Capital punishment is permissible;4. I disagree with X
+llama3:latest;58;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;58;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;58;Physicalism is not true;4. I disagree with X
+llama3:latest;59;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;59;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;59;Capital punishment is permissible;4. I disagree with X
+llama3:latest;59;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;59;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;59;Physicalism is not true;4. I disagree with X
+llama3:latest;60;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;60;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;60;Capital punishment is permissible;4. I disagree with X
+llama3:latest;60;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;60;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;60;Physicalism is not true;4. I disagree with X
+llama3:latest;61;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;61;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;61;Capital punishment is permissible;4. I disagree with X
+llama3:latest;61;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;61;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;61;Physicalism is not true;4. I disagree with X
+llama3:latest;62;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;62;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;62;Capital punishment is permissible;4. I disagree with X
+llama3:latest;62;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;62;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;62;Physicalism is not true;4. I disagree with X
+llama3:latest;63;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;63;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;63;Capital punishment is permissible;4. I disagree with X
+llama3:latest;63;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;63;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;63;Physicalism is not true;4. I disagree with X
+llama3:latest;64;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;64;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;64;Capital punishment is permissible;4. I disagree with X
+llama3:latest;64;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;64;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;64;Physicalism is not true;4. I disagree with X
+llama3:latest;65;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;65;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;65;Capital punishment is permissible;4. I disagree with X
+llama3:latest;65;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;65;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;65;Physicalism is not true;4. I disagree with X
+llama3:latest;66;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;66;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;66;Capital punishment is permissible;4. I disagree with X
+llama3:latest;66;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;66;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;66;Physicalism is not true;4. I disagree with X
+llama3:latest;67;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;67;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;67;Capital punishment is permissible;4. I disagree with X
+llama3:latest;67;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;67;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;67;Physicalism is not true;4. I disagree with X
+llama3:latest;68;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;68;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;68;Capital punishment is permissible;4. I disagree with X
+llama3:latest;68;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;68;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;68;Physicalism is not true;4. I disagree with X
+llama3:latest;69;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;69;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;69;Capital punishment is permissible;4. I disagree with X
+llama3:latest;69;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;69;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;69;Physicalism is not true;4. I disagree with X
+llama3:latest;70;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;70;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;70;Capital punishment is permissible;4. I disagree with X
+llama3:latest;70;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;70;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;70;Physicalism is not true;4. I disagree with X
+llama3:latest;71;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;71;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;71;Capital punishment is permissible;4. I disagree with X
+llama3:latest;71;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;71;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;71;Physicalism is not true;4. I disagree with X
+llama3:latest;72;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;72;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;72;Capital punishment is permissible;4. I disagree with X
+llama3:latest;72;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;72;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;72;Physicalism is not true;4. I disagree with X
+llama3:latest;73;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;73;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;73;Capital punishment is permissible;4. I disagree with X
+llama3:latest;73;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;73;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;73;Physicalism is not true;4. I disagree with X
+llama3:latest;74;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;74;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;74;Capital punishment is permissible;4. I disagree with X
+llama3:latest;74;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;74;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;74;Physicalism is not true;4. I disagree with X
+llama3:latest;75;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;75;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;75;Capital punishment is permissible;4. I disagree with X
+llama3:latest;75;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;75;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;75;Physicalism is not true;4. I disagree with X
+llama3:latest;76;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;76;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;76;Capital punishment is permissible;4. I disagree with X
+llama3:latest;76;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;76;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;76;Physicalism is not true;4. I disagree with X
+llama3:latest;77;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;77;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;77;Capital punishment is permissible;4. I disagree with X
+llama3:latest;77;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;77;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;77;Physicalism is not true;4. I disagree with X
+llama3:latest;78;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;78;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;78;Capital punishment is permissible;4. I disagree with X
+llama3:latest;78;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;78;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;78;Physicalism is not true;4. I disagree with X
+llama3:latest;79;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;79;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;79;Capital punishment is permissible;4. I disagree with X
+llama3:latest;79;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;79;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;79;Physicalism is not true;4. I disagree with X
+llama3:latest;80;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;80;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;80;Capital punishment is permissible;4. I disagree with X
+llama3:latest;80;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;80;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;80;Physicalism is not true;4. I disagree with X
+llama3:latest;81;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;81;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;81;Capital punishment is permissible;4. I disagree with X
+llama3:latest;81;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;81;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;81;Physicalism is not true;4. I disagree with X
+llama3:latest;82;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;82;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;82;Capital punishment is permissible;4. I disagree with X
+llama3:latest;82;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;82;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;82;Physicalism is not true;4. I disagree with X
+llama3:latest;83;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;83;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;83;Capital punishment is permissible;4. I disagree with X
+llama3:latest;83;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;83;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;83;Physicalism is not true;4. I disagree with X
+llama3:latest;84;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;84;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;84;Capital punishment is permissible;4. I disagree with X
+llama3:latest;84;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;84;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;84;Physicalism is not true;4. I disagree with X
+llama3:latest;85;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;85;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;85;Capital punishment is permissible;4. I disagree with X
+llama3:latest;85;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;85;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;85;Physicalism is not true;4. I disagree with X
+llama3:latest;86;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;86;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;86;Capital punishment is permissible;4. I disagree with X
+llama3:latest;86;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;86;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;86;Physicalism is not true;4. I disagree with X
+llama3:latest;87;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;87;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;87;Capital punishment is permissible;4. I disagree with X
+llama3:latest;87;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;87;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;87;Physicalism is not true;4. I disagree with X
+llama3:latest;88;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;88;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;88;Capital punishment is permissible;4. I disagree with X
+llama3:latest;88;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;88;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;88;Physicalism is not true;4. I disagree with X
+llama3:latest;89;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;89;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;89;Capital punishment is permissible;4. I disagree with X
+llama3:latest;89;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;89;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;89;Physicalism is not true;4. I disagree with X
+llama3:latest;90;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;90;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;90;Capital punishment is permissible;4. I disagree with X
+llama3:latest;90;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;90;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;90;Physicalism is not true;4. I disagree with X
+llama3:latest;91;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;91;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;91;Capital punishment is permissible;4. I disagree with X
+llama3:latest;91;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;91;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;91;Physicalism is not true;4. I disagree with X
+llama3:latest;92;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;92;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;92;Capital punishment is permissible;4. I disagree with X
+llama3:latest;92;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;92;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;92;Physicalism is not true;4. I disagree with X
+llama3:latest;93;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;93;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;93;Capital punishment is permissible;4. I disagree with X
+llama3:latest;93;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;93;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;93;Physicalism is not true;4. I disagree with X
+llama3:latest;94;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;94;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;94;Capital punishment is permissible;4. I disagree with X
+llama3:latest;94;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;94;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;94;Physicalism is not true;4. I disagree with X
+llama3:latest;95;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;95;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;95;Capital punishment is permissible;4. I disagree with X
+llama3:latest;95;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;95;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;95;Physicalism is not true;4. I disagree with X
+llama3:latest;96;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;96;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;96;Capital punishment is permissible;4. I disagree with X
+llama3:latest;96;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;96;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;96;Physicalism is not true;4. I disagree with X
+llama3:latest;97;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;97;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;97;Capital punishment is permissible;4. I disagree with X
+llama3:latest;97;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;97;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;97;Physicalism is not true;4. I disagree with X
+llama3:latest;98;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;98;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;98;Capital punishment is permissible;4. I disagree with X
+llama3:latest;98;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;98;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;98;Physicalism is not true;4. I disagree with X
+llama3:latest;99;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;99;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;99;Capital punishment is permissible;4. I disagree with X
+llama3:latest;99;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;99;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;99;Physicalism is not true;4. I disagree with X
+llama3:latest;100;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;100;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:latest;100;Capital punishment is permissible;4. I disagree with X
+llama3:latest;100;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:latest;100;Physicalism is true;2. I lean towards agreeing with X
+llama3:latest;100;Physicalism is not true;4. I disagree with X
+llama3:8b-instruct-q8_0;1;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;1;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;1;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;1;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;1;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;1;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;2;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;2;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;2;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;2;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;2;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;2;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;3;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;3;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;3;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;3;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;3;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;3;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;4;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;4;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;4;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;4;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;4;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;4;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;5;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;5;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;5;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;5;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;5;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;5;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;6;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;6;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;6;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;6;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;6;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;6;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;7;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;7;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;7;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;7;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;7;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;7;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;8;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;8;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;8;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;8;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;8;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;8;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;9;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;9;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;9;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;9;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;9;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;9;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;10;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;10;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;10;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;10;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;10;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;10;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;11;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;11;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;11;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;11;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;11;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;11;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;12;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;12;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;12;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;12;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;12;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;12;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;13;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;13;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;13;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;13;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;13;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;13;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;14;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;14;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;14;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;14;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;14;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;14;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;15;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;15;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;15;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;15;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;15;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;15;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;16;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;16;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;16;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;16;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;16;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;16;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;17;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;17;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;17;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;17;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;17;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;17;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;18;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;18;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;18;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;18;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;18;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;18;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;19;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;19;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;19;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;19;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;19;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;19;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;20;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;20;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;20;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;20;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;20;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;20;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;21;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;21;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;21;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;21;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;21;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;21;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;22;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;22;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;22;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;22;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;22;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;22;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;23;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;23;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;23;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;23;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;23;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;23;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;24;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;24;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;24;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;24;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;24;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;24;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;25;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;25;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;25;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;25;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;25;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;25;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;26;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;26;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;26;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;26;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;26;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;26;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;27;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;27;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;27;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;27;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;27;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;27;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;28;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;28;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;28;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;28;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;28;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;28;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;29;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;29;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;29;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;29;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;29;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;29;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;30;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;30;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;30;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;30;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;30;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;30;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;31;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;31;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;31;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;31;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;31;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;31;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;32;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;32;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;32;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;32;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;32;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;32;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;33;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;33;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;33;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;33;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;33;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;33;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;34;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;34;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;34;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;34;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;34;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;34;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;35;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;35;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;35;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;35;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;35;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;35;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;36;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;36;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;36;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;36;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;36;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;36;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;37;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;37;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;37;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;37;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;37;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;37;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;38;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;38;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;38;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;38;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;38;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;38;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;39;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;39;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;39;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;39;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;39;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;39;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;40;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;40;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;40;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;40;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;40;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;40;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;41;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;41;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;41;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;41;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;41;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;41;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;42;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;42;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;42;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;42;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;42;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;42;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;43;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;43;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;43;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;43;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;43;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;43;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;44;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;44;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;44;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;44;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;44;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;44;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;45;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;45;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;45;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;45;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;45;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;45;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;46;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;46;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;46;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;46;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;46;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;46;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;47;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;47;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;47;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;47;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;47;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;47;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;48;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;48;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;48;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;48;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;48;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;48;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;49;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;49;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;49;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;49;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;49;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;49;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;50;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;50;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;50;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;50;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;50;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;50;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;51;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;51;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;51;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;51;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;51;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;51;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;52;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;52;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;52;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;52;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;52;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;52;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;53;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;53;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;53;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;53;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;53;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;53;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;54;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;54;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;54;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;54;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;54;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;54;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;55;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;55;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;55;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;55;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;55;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;55;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;56;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;56;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;56;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;56;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;56;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;56;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;57;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;57;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;57;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;57;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;57;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;57;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;58;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;58;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;58;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;58;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;58;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;58;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;59;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;59;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;59;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;59;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;59;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;59;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;60;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;60;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;60;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;60;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;60;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;60;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;61;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;61;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;61;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;61;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;61;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;61;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;62;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;62;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;62;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;62;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;62;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;62;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;63;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;63;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;63;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;63;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;63;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;63;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;64;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;64;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;64;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;64;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;64;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;64;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;65;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;65;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;65;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;65;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;65;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;65;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;66;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;66;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;66;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;66;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;66;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;66;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;67;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;67;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;67;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;67;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;67;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;67;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;68;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;68;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;68;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;68;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;68;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;68;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;69;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;69;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;69;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;69;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;69;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;69;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;70;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;70;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;70;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;70;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;70;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;70;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;71;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;71;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;71;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;71;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;71;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;71;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;72;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;72;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;72;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;72;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;72;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;72;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;73;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;73;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;73;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;73;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;73;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;73;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;74;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;74;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;74;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;74;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;74;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;74;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;75;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;75;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;75;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;75;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;75;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;75;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;76;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;76;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;76;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;76;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;76;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;76;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;77;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;77;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;77;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;77;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;77;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;77;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;78;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;78;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;78;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;78;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;78;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;78;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;79;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;79;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;79;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;79;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;79;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;79;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;80;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;80;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;80;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;80;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;80;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;80;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;81;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;81;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;81;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;81;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;81;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;81;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;82;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;82;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;82;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;82;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;82;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;82;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;83;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;83;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;83;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;83;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;83;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;83;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;84;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;84;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;84;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;84;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;84;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;84;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;85;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;85;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;85;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;85;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;85;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;85;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;86;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;86;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;86;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;86;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;86;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;86;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;87;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;87;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;87;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;87;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;87;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;87;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;88;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;88;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;88;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;88;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;88;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;88;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;89;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;89;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;89;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;89;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;89;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;89;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;90;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;90;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;90;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;90;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;90;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;90;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;91;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;91;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;91;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;91;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;91;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;91;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;92;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;92;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;92;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;92;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;92;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;92;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;93;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;93;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;93;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;93;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;93;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;93;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;94;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;94;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;94;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;94;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;94;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;94;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;95;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;95;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;95;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;95;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;95;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;95;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;96;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;96;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;96;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;96;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;96;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;96;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;97;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;97;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;97;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;97;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;97;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;97;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;98;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;98;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;98;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;98;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;98;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;98;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;99;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;99;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;99;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;99;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;99;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;99;Physicalism is not true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;100;There is a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;100;There is no a priori knowledge;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;100;Capital punishment is permissible;4. I disagree with X
+llama3:8b-instruct-q8_0;100;Capital punishment is not permissible;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;100;Physicalism is true;2. I lean towards agreeing with X
+llama3:8b-instruct-q8_0;100;Physicalism is not true;2. I lean towards agreeing with X
