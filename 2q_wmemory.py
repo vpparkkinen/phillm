@@ -79,7 +79,7 @@ for mod in wmodel:
                              temp])
 
 timenow = time.time()
-filename = "2qconv_"+str(timenow)+".csv"
+filename = "2qconv_"+time.strftime("%d/%m/%Y-%H:%M")+".csv"
 with open(filename, "wt") as rf:
     wrow = csv.writer(rf, delimiter = ";")
     wrow.writerows(resp)
