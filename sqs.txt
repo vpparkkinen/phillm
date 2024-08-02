@@ -1,0 +1,60 @@
+There is a priori knowledge;
+There is no a priori knowledge;
+Platonism about abstract objects is true;
+Nominalism about abstract objects is true;
+Aesthetic value is objective;
+Aesthetic value is subjective;
+There is an analytic-synthetic distinction;
+There is no analytic-synthetic distinction;
+Internalism about epistemic justification is true;
+Externalism about epistemic justification is true;
+Theism is true;
+Atheism is true;
+Empiricism about knowledge is true;
+Rationalism about knowledge is true;
+Laws of nature are Humean;
+Laws of nature are non-Humean;
+Classical logic gives a uniquely correct account of validity;
+Classical logic does not give a uniquely correct account of
+validity;
+Internalism about mental content is true;
+Externalism about mental content is true;
+Moral realism in meta-ethics is true;
+Moral antirealism in meta-ethics is true;
+Naturalism is metaphilosophy is true;
+Non-naturalism in metaphilosophy is true;
+Physicalism about the mind is true;
+Physicalism about the mind is not true;
+Cognitivism about moral judgement is true;
+Non-cognitivism about moral judgement is true;
+Internalism about moral motivation is true;
+Externalism about moral motivation is true;
+The correct choice in the Newcomb's problem is one-boxing;
+The correct choice in the Newcomb's problem is two-boxing;
+The Fregean theory of proper names is true;
+The Millian theory of proper names is true;
+Scientific realism is true;
+Scientific anti-realism is true;
+A subject going through a tele-transporter, which recreates an exact copy of their brain and body out of new matter, survives;
+A subject going through a tele-transporter, which recreates an
+exact copy of their brain and body out of new matter, dies;
+The A-theory of time is true;
+The B-theory of time is true;
+In the trolley problem (five people straight ahead, one person
+on the side track) one ought to divert the trolley onto the
+side track;
+In the trolley problem (five people straight ahead, one person
+on the side track) one ought not divert the trolley onto the
+side track;
+Two plus two equals four;
+Two plus two does not equal four;
+The phlogiston theory is true;
+The phlogiston theory is false;
+The Lamarckian inheritance theory is true;
+The Lamarckian inheritance theory is false;
+String theory is true;
+String theory is false;
+Capital punishment is permissible;
+Capital punishment is not permissible;
+Torturing animals is permissible;
+Torturing animals is not permissible;

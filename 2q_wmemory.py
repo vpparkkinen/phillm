@@ -24,22 +24,37 @@ def read_qs(filename):
                 items.append(item.rstrip())
         return items
 
-li = read_qs("tf_small.txt") # read in the questions
+li = read_qs("sqs.txt") # read in the questions
 
-li = list(zip(li[::2], li[1::2]))
+li = list(zip(li[::2], li[1::2])) # 'A' first
+
+# li = list(zip(li[::2], li[1::2])) # 'B' first
 
 
 # choose models -- bigger models if running on a bigger rig
 if os.cpu_count() > 16:
-    wmodel = ["llama2:7b-chat-q4_0",
-              "mistral:7b-instruct-v0.3-q4_0"]
+    wmodel = ["llama3:8b-instruct-q4_0",
+              "llama3:8b-instruct-q8_0",
+              "llama3:70b-instruct-q4_0",
+              "llama3:70b-instruct-q8_0",
+              "llama2:7b-chat-q4_0",
+              "llama2:7b-chat-q8_0",
+              "llama2:70b-chat-q4_0",
+              "llama2:70b-chat-q8_0",
+              "mistral:7b-instruct-v0.3-q4_0",
+              "mistral:7b-instruct-v0.3-q8_0",
+              "gemma:2b-instruct-v1.1-q4_0",
+              "gemma:2b-instruct-v1.1-q8_0",
+              "gemma:7b-instruct-v1.1-q4_0",
+              "gemma:7b-instruct-v1.1-q8_0"]
 else: # laptop
     wmodel = ["gemma"]
 
- # which models to use
-iter = 2 # how many iterations per model
+iter = 100 # how many iterations per model
 
-system_prompt3 = "You are presented with a philosophical claims about topic X. Indicate your level of agreement by choosing one of the following options: \"1. I agree with X\", \"2. I lean towards agreeing with X\", \"3. I lean towards disagreeing with X\", \"4. I disagree with X\", \"5. Other\". Do not say anything else. It is acknowledged that there are always legitimate arguments for agreeing or disagreeing with X. Do not include any explanation or notes in your answer, just choose one of the options, based on what you know about X. Remember, do not include any explanation for your choice in your answer, and do not include any notes about in your answer. \n\n Current conversation:\n{history}\nHuman: {input}\nAI:"
+# system_prompt3 = "You, the AI, are presented philosophical claims about topic X. Indicate your level of agreement by choosing one of the following options: \"1. I agree with X\", \"2. I lean towards agreeing with X\", \"3. I lean towards disagreeing with X\", \"4. I disagree with X\", \"5. Other\". Do not say anything else. It is acknowledged that there are always legitimate arguments for agreeing or disagreeing with X. Do not include any explanation or notes in your answer, just choose one of the options, based on what you know about X. Remember, do not include any explanation for your choice in your answer, and do not include any notes about in your answer. \n\n Current conversation:\n{history}\n Human: {input} \n\nAI:"
+
+sprompt = "You, the AI, are asked to consider philosophical views. Reply only with one of the following as the first sentence of your answer: \"It is correct\", \"It is partially correct\", \"It is partially incorrect\", \"It is incorrect\", \"Other\". Do not include any explanation for your choice, just choose one of the answer options, based on what you know. Remember, do not include anything else in your answer.\n\n Current conversation:\n{history}\n Human: {input} \n\nAI:"
 
 
 # prompt = ChatPromptTemplate.from_messages([
@@ -50,7 +65,7 @@ system_prompt3 = "You are presented with a philosophical claims about topic X. I
 # parser = StrOutputParser()
 
 resp = [["model", "iteration", "Q", "A", "temperature"]]
-temperatures = [0.1, 0.3, 0.5, 0.7]
+temperatures = [0.1, 0.4, 0.7, 1.0]
 for temp in temperatures:
     print("temp is:", temp)
     for mod in wmodel:
@@ -63,7 +78,7 @@ for temp in temperatures:
                     llm=llm,
                     memory=ConversationBufferMemory()
                     )
-                conv.prompt.template = system_prompt3
+                conv.prompt.template = sprompt
                 for qplus in range(2):
                     resp.append([mod,
                                  i,
@@ -72,7 +87,7 @@ for temp in temperatures:
                                  temp])
 
 timenow = time.time()
-filename = "2qconv_"+time.strftime("%d%m%Y-%Hh%Mm")+".csv"
+filename = "mem_afirst"+time.strftime("%d%m%Y-%Hh%Mm")+".csv"
 with open(filename, "wt") as rf:
     wrow = csv.writer(rf, delimiter = ";")
     wrow.writerows(resp)
