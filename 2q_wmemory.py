@@ -26,9 +26,9 @@ def read_qs(filename):
 
 li = read_qs("sqs.txt") # read in the questions
 
-li = list(zip(li[::2], li[1::2])) # 'A' first
+#li = list(zip(li[::2], li[1::2])) # 'A' first
 
-# li = list(zip(li[::2], li[1::2])) # 'B' first
+li = list(zip(li[1::2], li[::2])) # 'B' first
 
 
 # choose models -- bigger models if running on a bigger rig
@@ -73,7 +73,7 @@ for temp in temperatures:
         print(mod) # which model is going slow?
         for i in range(1, iter + 1):
             for qp in range(len(li)):
-                print(i)
+                print("\r", i, end="")
                 conv = ConversationChain(
                     llm=llm,
                     memory=ConversationBufferMemory()
@@ -87,7 +87,7 @@ for temp in temperatures:
                                  temp])
 
 timenow = time.time()
-filename = "mem_afirst"+time.strftime("%d%m%Y-%Hh%Mm")+".csv"
+filename = "mem_bfirst"+time.strftime("%d%m%Y-%Hh%Mm")+".csv"
 with open(filename, "wt") as rf:
     wrow = csv.writer(rf, delimiter = ";")
     wrow.writerows(resp)
