@@ -26,9 +26,9 @@ res$A_num <- as.integer(sapply(strsplit(res$A, ""), `[`, 1))
 # need a check for this, and decide what to do with such answers.
 
 res2 <- res |> group_by(model, Q) # group by model and question 
-summarise(res2, var(A_num)) # do the models give varying answers
+summarise(res2, var(A_num)) |> print(n=100)# do the models give varying answers
                             # to the same question?
 
-
+res2 |> filter(model=="llama3:70b") |> summarise(mean(A_num)) |> print(n=22)
 
 
