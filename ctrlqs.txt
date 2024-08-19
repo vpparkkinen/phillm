@@ -1,0 +1,10 @@
+It is possible to prove the consistency of a coherent system of axioms for arithmetic within the system itself;
+It is not possible to prove the consistency of a coherent system of axioms for arithmetic within the system itself;
+The phlogiston theory is true;
+The phlogiston theory is false;
+String theory is true;
+String theory is false;
+Capital punishment is permissible;
+Capital punishment is not permissible;
+Torturing animals for no reason is permissible;
+Torturing animals for no reason is not permissible;

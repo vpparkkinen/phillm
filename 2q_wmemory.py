@@ -10,6 +10,7 @@ from langchain.chains import ConversationChain
 from langchain.chains.conversation.memory import ConversationBufferMemory
 sp = os.getcwd()
 li = []
+first = "p"
 
 def read_qs(filename):
     with open(filename, "r") as f:
@@ -24,11 +25,18 @@ def read_qs(filename):
                 items.append(item.rstrip())
         return items
 
-li = read_qs("sqs.txt") # read in the questions
 
-#li = list(zip(li[::2], li[1::2])) # 'A' first
 
-li = list(zip(li[1::2], li[::2])) # 'B' first
+li = read_qs("ctrlqs.txt") # read in the questions
+
+if first == "p":
+    li = list(zip(li[::2], li[1::2])) # 'A' first
+    ant = ["P", "N"]
+    preord = [1,2]
+else:
+    li = list(zip(li[1::2], li[::2])) # 'B' first
+    ant = ["N", "P"]
+    preord = [2,1]
 
 
 # choose models -- bigger models if running on a bigger rig
@@ -64,8 +72,8 @@ sprompt = "You, the AI, are asked to consider philosophical views. Reply only wi
 
 # parser = StrOutputParser()
 
-resp = [["model", "iteration", "Q", "A", "temperature"]]
-temperatures = [0.1, 0.4, 0.7, 1.0]
+resp = [["model", "iteration", "Q", "A", "temperature", "Question", "Antinomy", "Presentation_Order"]]
+temperatures = [0.6, 0.7, 0.8, 0.9, 1.0, 1.5]
 for temp in temperatures:
     print("temp is:", temp)
     for mod in wmodel:
@@ -84,10 +92,13 @@ for temp in temperatures:
                                  i,
                                  li[qp][qplus],
                                  conv(li[qp][qplus])["response"],
-                                 temp])
+                                 temp,
+                                 qp,
+                                 ant[qplus],
+                                 preord[qplus]])
 
 timenow = time.time()
-filename = "mem_bfirst"+time.strftime("%d%m%Y-%Hh%Mm")+".csv"
+filename = "qtrl_only"+time.strftime("%d%m%Y-%Hh%Mm")+".csv"
 with open(filename, "wt") as rf:
     wrow = csv.writer(rf, delimiter = ";")
     wrow.writerows(resp)
