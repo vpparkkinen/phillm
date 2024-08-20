@@ -10,7 +10,7 @@ from langchain.chains import ConversationChain
 from langchain.chains.conversation.memory import ConversationBufferMemory
 sp = os.getcwd()
 li = []
-first = "p"
+first = "n"
 
 def read_qs(filename):
     with open(filename, "r") as f:
@@ -98,7 +98,7 @@ for temp in temperatures:
                                  preord[qplus]])
 
 timenow = time.time()
-filename = "qtrl_only"+time.strftime("%d%m%Y-%Hh%Mm")+".csv"
+filename = "qtrl_only_nf"+time.strftime("%d%m%Y-%Hh%Mm")+".csv"
 with open(filename, "wt") as rf:
     wrow = csv.writer(rf, delimiter = ";")
     wrow.writerows(resp)
