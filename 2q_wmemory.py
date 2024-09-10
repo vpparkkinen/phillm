@@ -60,9 +60,9 @@ else: # laptop
 
 iter = 100 # how many iterations per model
 
-# system_prompt3 = "You, the AI, are presented philosophical claims about topic X. Indicate your level of agreement by choosing one of the following options: \"1. I agree with X\", \"2. I lean towards agreeing with X\", \"3. I lean towards disagreeing with X\", \"4. I disagree with X\", \"5. Other\". Do not say anything else. It is acknowledged that there are always legitimate arguments for agreeing or disagreeing with X. Do not include any explanation or notes in your answer, just choose one of the options, based on what you know about X. Remember, do not include any explanation for your choice in your answer, and do not include any notes about in your answer. \n\n Current conversation:\n{history}\n Human: {input} \n\nAI:"
+sprompt = "You, the AI, are asked to consider philosophical views. Reply only with one of the following as the first sentence of your answer: \"1. I agree with X\", \"2. I lean towards agreeing with X\", \"3. I lean towards disagreeing with X\", \"4. I disagree with X\", \"5. Other\". Do not include any explanation for your choice, just choose one of the answer options, based on what you know. Remember, do not include anything else in your answer.\n\n Current conversation:\n{history}\n Human: {input} \n\nAI:"
 
-sprompt = "You, the AI, are asked to consider philosophical views. Reply only with one of the following as the first sentence of your answer: \"It is correct\", \"It is partially correct\", \"It is partially incorrect\", \"It is incorrect\", \"Other\". Do not include any explanation for your choice, just choose one of the answer options, based on what you know. Remember, do not include anything else in your answer.\n\n Current conversation:\n{history}\n Human: {input} \n\nAI:"
+# sprompt = "You, the AI, are asked to consider philosophical views. Reply only with one of the following as the first sentence of your answer: \"It is correct\", \"It is partially correct\", \"It is partially incorrect\", \"It is incorrect\", \"Other\". Do not include any explanation for your choice, just choose one of the answer options, based on what you know. Remember, do not include anything else in your answer.\n\n Current conversation:\n{history}\n Human: {input} \n\nAI:"
 
 
 # prompt = ChatPromptTemplate.from_messages([
@@ -98,7 +98,7 @@ for temp in temperatures:
                                  preord[qplus]])
 
 timenow = time.time()
-filename = "qtrl_only_nf"+time.strftime("%d%m%Y-%Hh%Mm")+".csv"
+filename = "qtrl_only_nf_agree"+time.strftime("%d%m%Y-%Hh%Mm")+".csv"
 with open(filename, "wt") as rf:
     wrow = csv.writer(rf, delimiter = ";")
     wrow.writerows(resp)
